@@ -3,16 +3,10 @@ import { useState } from "react";
 import Link from "next/link";
 export default function UserForm() {
   const [formData, setFormData] = useState({
-    name: "",
-    authorNumber: "",
-    city: "",
-    author: "",
-    comments: "",
     startingDate: "",
     endDate: "",
   });
 
-  // Function to reset the form
   const resetForm = () => {
     setFormData({
       startingDate: "",
@@ -29,6 +23,7 @@ export default function UserForm() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    resetForm()
 
   };
 

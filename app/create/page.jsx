@@ -1,8 +1,6 @@
 "use client";
 import { useState } from "react";
-import Cookies from "js-cookie"; 
 import Link from "next/link";
-// Import js-cookie for managing cookies
 
 export default function UserForm() {
   const [formData, setFormData] = useState({
@@ -10,7 +8,6 @@ export default function UserForm() {
     name: ""
   });
 
-  // Handle form input changes
 
   const handleChange = (e) => {
     setFormData({
@@ -19,10 +16,9 @@ export default function UserForm() {
     });
   };
 
-  // Handle form submission
   const handleSubmit = async (e) => {
     e.preventDefault();
-alert("done")
+alert("done is this")
   };
 
   return (
@@ -41,7 +37,6 @@ alert("done")
           />
         </div>
 
-        {/* Name */}
         <div className="mb-4">
           <label className="block text-sm font-medium mb-1">Name</label>
           <input
@@ -54,7 +49,6 @@ alert("done")
           />
         </div>
 
-        {/* Submit Button */}
         <div>
           <button
             type="submit"
