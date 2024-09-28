@@ -3,6 +3,11 @@ import { useState } from "react";
 import Link from "next/link";
 export default function UserForm() {
   const [formData, setFormData] = useState({
+    name: "",
+    authorNumber: "",
+    city: "",
+    author: "",
+    comments: "",
     startingDate: "",
     endDate: "",
   });
@@ -24,12 +29,14 @@ export default function UserForm() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    alert("done")
+
   };
 
   return (
     <div className="max-w-md mx-auto p-6 bg-white rounded-lg shadow-md">
       <form onSubmit={handleSubmit}>
+        {/* Name */}
+        
         {/* Starting Date */}
         <div className="mb-4">
           <label className="block text-sm font-medium mb-1">
