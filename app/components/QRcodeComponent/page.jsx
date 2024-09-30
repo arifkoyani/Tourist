@@ -9,9 +9,11 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 const QRcodeComponent = () => {
+
   useEffect(() => {
     AOS.init({ duration: 2000 });
   }, []);
+
 
   const [QRcode, setQRcode] = useState(false);
   const [loader, setLoader] = useState(true);
