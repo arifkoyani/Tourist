@@ -1,9 +1,26 @@
-import UserForm from "./create/page"
+import Navbar from "./page"
+import Secondbar from "./components/SecondBar/page"
+import Indroduce from "./components/introdPage/page"
+import Cards from "./components/cards/page"
+import CardWithImges from "./components/cardsWithImage/page"
+import ImageCarousel from "./components/Coursal/page"
+import QuickContact from "./components/quickContact/page"
+import Footer from "./components/Footer/page"
+import QRcodeComponent from "./components/QRcodeComponent/page"
+import ServicesGrid from "./components/AllSources/page"
 export default function Home() {
   return (
     <>
-    <h1 className="text-center m-5 hover:text-blue-700 font-bold">This is for for Mongo and prisma</h1>
-    <UserForm/>
+<Navbar/>
+<Secondbar/>
+<ImageCarousel/>
+<ServicesGrid/>
+<Indroduce/>
+<Cards/>
+<CardWithImges/>
+<QRcodeComponent/>
+<QuickContact/>
+<Footer/>
     </>
   );
 }
