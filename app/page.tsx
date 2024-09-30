@@ -9,6 +9,7 @@ import Footer from "./components/Footer/page"
 import QRcodeComponent from "./components/QRcodeComponent/page"
 import ServicesGrid from "./components/AllSources/page"
 import ContactComponent from "./components/ContactComponent/page"
+import EmailMessage from "./components/EmailMessage/page"
 export default function Home() {
   return (
     <>
@@ -17,6 +18,7 @@ export default function Home() {
 <ImageCarousel/>
 <ServicesGrid/>
 <Indroduce/>
+<EmailMessage/>
 <Cards/>
 <CardWithImges/>
 <QRcodeComponent/>

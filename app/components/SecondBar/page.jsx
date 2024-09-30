@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 const Secondbar = () => {
   return (
-    <div className="bg-[#10623d] text-white text-[#10623d] py-6 px-10">
+    <div className="bg-[#10623d] text-white py-6 px-10">
 
       <div className="container mx-auto flex justify-evenly items-center">
         <div>
