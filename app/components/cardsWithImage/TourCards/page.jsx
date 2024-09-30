@@ -9,7 +9,7 @@ const TourCards = () => {
       <div className="w-[350px] mx-auto bg-white rounded-xl shadow-lg overflow-hidden p-4">
         <div className="relative w-full h-64 border-b-2 border-black">
           <Image
-            src="/hello.jpg" // Replace with the correct image path
+            src="/chitral.jpg" // Replace with the correct image path
             alt="Kalash Valley Tours"
             layout="fill"
             objectFit="cover"
@@ -30,7 +30,7 @@ const TourCards = () => {
       <div className="w-[350px] mx-auto bg-white rounded-xl shadow-lg overflow-hidden p-4">
         <div className="relative w-full h-64 border-b-2 border-black">
           <Image
-            src="/hello.jpg" // Replace with the correct image path
+            src="/highway.webp" // Replace with the correct image path
             alt="Karakoram Highway Tours"
             layout="fill"
             objectFit="cover"
@@ -51,7 +51,7 @@ const TourCards = () => {
       <div className="w-[350px] mx-auto bg-white rounded-xl shadow-lg overflow-hidden p-4">
         <div className="relative w-full h-64 border-b-2 border-black">
           <Image
-            src="/hello.jpg" // Replace with the correct image path
+            src="/mountain.png" // Replace with the correct image path
             alt="Man & Mountain Tours"
             layout="fill"
             objectFit="cover"

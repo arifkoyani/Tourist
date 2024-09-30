@@ -1,11 +1,21 @@
 "use client"
 
 import Link from 'next/link';
+import Image from 'next/image';
 
 const Secondbar = () => {
   return (
-    <div className="bg-white text-[#10623d] py-6 px-10">
-      <div className="container mx-auto flex justify-center items-center">
+    <div className="bg-[#10623d] text-white text-[#10623d] py-6 px-10">
+
+      <div className="container mx-auto flex justify-evenly items-center">
+        <div>
+          <Image
+          src="/logo.png"
+          width={60}
+          height={60}
+          alt='logo'
+          />
+        </div>
         {/* Left Side: Navigation Links */}
         <div className="flex space-x-8">
           <Link href="/blog" className="hover:text-black">

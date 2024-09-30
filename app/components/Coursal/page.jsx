@@ -18,7 +18,9 @@ const ImageCarousel = () => {
         {/* Image 1 */}
         <div className="relative w-full h-screen">
           <Image
-            src="/peak.jpg" // Replace with the correct image path
+            
+            src="/company.jpg" // Replace with the correct image path
+            // Replace with the correct image path
             alt="Image 1"
             layout="fill"
             objectFit="cover"
@@ -29,7 +31,7 @@ const ImageCarousel = () => {
         {/* Image 2 */}
         <div className="relative w-full h-screen">
           <Image
-            src="/hello.jpg" // Replace with the correct image path
+            src="/pak-china-scaled.jpg" // Replace with the correct image path
             alt="Image 2"
             layout="fill"
             objectFit="cover"
@@ -40,7 +42,7 @@ const ImageCarousel = () => {
         {/* Image 3 */}
         <div className="relative w-full h-screen">
           <Image
-            src="/hello.jpg" // Replace with the correct image path
+            src="/kalash_valley.jpg" // Replace with the correct image path
             alt="Image 3"
             layout="fill"
             objectFit="cover"
@@ -51,7 +53,8 @@ const ImageCarousel = () => {
         {/* Image 4 */}
         <div className="relative w-full h-screen">
           <Image
-            src="/hello.jpg" // Replace with the correct image path
+            src="/islamabd.jpg"
+
             alt="Image 4"
             layout="fill"
             objectFit="cover"

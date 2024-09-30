@@ -6,7 +6,7 @@ const ExplorePakistanCard = () => {
     <div className="relative w-[350px] mx-auto bg-white rounded-xl shadow-lg overflow-hidden p-4">
       <div className="relative w-full h-64">
         <Image
-          src="/hello.jpg" // Replace with the correct image path
+          src="/exporepk.jpg" // Replace with the correct image path
           alt="Explore Pakistan Tours"
           layout="fill"
           objectFit="cover"

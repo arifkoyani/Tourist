@@ -14,7 +14,7 @@ const Indroduce = () => {
       </div>
       <div className="w-full md:w-1/2 h-full relative mt-8 md:mt-0">
         <Image
-          src="/hello.jpg"
+          src="/cover.jpg"
           width={600}
           height={300}
           alt="Service Image"

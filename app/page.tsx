@@ -8,6 +8,7 @@ import QuickContact from "./components/quickContact/page"
 import Footer from "./components/Footer/page"
 import QRcodeComponent from "./components/QRcodeComponent/page"
 import ServicesGrid from "./components/AllSources/page"
+import ContactComponent from "./components/ContactComponent/page"
 export default function Home() {
   return (
     <>
@@ -20,6 +21,7 @@ export default function Home() {
 <CardWithImges/>
 <QRcodeComponent/>
 <QuickContact/>
+<ContactComponent/>
 <Footer/>
     </>
   );
