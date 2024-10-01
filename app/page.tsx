@@ -10,6 +10,7 @@ import QRcodeComponent from "./components/QRcodeComponent/page"
 import ServicesGrid from "./components/AllSources/page"
 import ContactComponent from "./components/ContactComponent/page"
 import EmailMessage from "./components/EmailMessage/page"
+import Reviews from "./components/ClientReviews/page"
 export default function Home() {
   return (
     <>
@@ -24,6 +25,7 @@ export default function Home() {
 <QRcodeComponent/>
 <QuickContact/>
 <ContactComponent/>
+<Reviews/>
 <Footer/>
     </>
   );

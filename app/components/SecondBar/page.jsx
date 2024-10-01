@@ -7,7 +7,7 @@ const Secondbar = () => {
   return (
     <div className="bg-[#10623d] text-white py-6 px-10">
 
-      <div className="container mx-auto flex justify-evenly items-center">
+      <div className="container mx-auto flex items-center">
         <div>
           <Image
           src="/logo.png"
