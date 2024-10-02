@@ -72,7 +72,8 @@ const FAQ = () => {
         <Secondbar/>
 
       <div className="lg:container mt-8 lg:mx-auto lg:w-8/12 w-full">
-        <h1 className="text-center text-3xl lg:text-4xl font-semibold text-gray-800 mb-8">FAQ's</h1>
+      <h1 className="text-center text-3xl lg:text-4xl font-semibold text-gray-800 mb-8">FAQ&apos;s</h1>
+
         <div className="bg-white p-6 shadow rounded-lg">
           <div className="space-y-8">
             {faqData.map((faq, index) => (

@@ -223,8 +223,9 @@ const Reviews = () => {
     </p>
   </div>
   <p className="text-sm">
-    Traveling with travelatease.tae was an amazing experience. They understood our travel needs perfectly and crafted an itinerary that was both exciting and relaxing. Their attention to detail and local insights made our trip truly memorable. We couldn't have asked for a better adventure and look forward to planning our next journey with them!
-  </p>
+  Traveling with travelatease.tae was an amazing experience. They understood our travel needs perfectly and crafted an itinerary that was both exciting and relaxing. Their attention to detail and local insights made our trip truly memorable. We couldn&apos;t have asked for a better adventure and look forward to planning our next journey with them!
+</p>
+
   {/* Animated Border */}
   <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
 </div>
@@ -316,8 +317,9 @@ const Reviews = () => {
     </p>
   </div>
   <p className="text-sm">
-    Travelatease.tae is an exceptional travel company that transformed our vacation into an unforgettable adventure. They meticulously planned every detail, allowing us to explore stunning destinations without any hassle. The knowledgeable guides were friendly and made the experience both enjoyable and enriching. Our trip was filled with delightful surprises and unforgettable moments. We can't wait to travel with them again!
-  </p>
+  Travelatease.tae is an exceptional travel company that transformed our vacation into an unforgettable adventure. They meticulously planned every detail, allowing us to explore stunning destinations without any hassle. The knowledgeable guides were friendly and made the experience both enjoyable and enriching. Our trip was filled with delightful surprises and unforgettable moments. We can&apos;t wait to travel with them again!
+</p>
+
   {/* Animated Border */}
   <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
 </div>

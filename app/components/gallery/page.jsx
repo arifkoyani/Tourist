@@ -76,6 +76,7 @@ const Gallery = () => {
               src="https://images.unsplash.com/photo-1592860200849-d408778c15d6?q=80&w=1910&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               width={400}
               height={300}
+              alt='mountain Picture'
             />
           </div>
         </div>
@@ -104,6 +105,7 @@ const Gallery = () => {
               src="https://images.unsplash.com/photo-1610064095022-db1b488c05f1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               width={400}
               height={300}
+              alt='image hu temple'
             />
           </div>
         </div>
@@ -114,6 +116,7 @@ const Gallery = () => {
               src="https://scontent.fisb29-1.fna.fbcdn.net/v/t1.6435-9/76267792_2583650988387849_7056618270756962304_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeFM0kpSzuu3j4odS7xnQVK_F5dql-lr0ikXl2qX6WvSKZk8NmnqpTXmqXnZErGI4ZvYB-N7jzx-19O44SCjTnYU&_nc_ohc=ykKeqicM1VcQ7kNvgF7sD5j&_nc_ht=scontent.fisb29-1.fna&_nc_gid=AQtOaC0_ASUNPNlFOzICEdx&oh=00_AYCzmyixE2rzdOb8camqapi8dPW5OtLWXJxD0c2TdRPj1w&oe=6724D008"
               width={400}
               height={300}
+              alt='hunza pakistan'
             />
           </div>
           <div>
