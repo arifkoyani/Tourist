@@ -26,7 +26,6 @@ export default function Home() {
 <QuickContact/>
 <ContactComponent/>
 <Reviews/>
-<Footer/>
     </>
   );
 }

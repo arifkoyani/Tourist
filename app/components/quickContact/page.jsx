@@ -29,7 +29,7 @@ const QuickContact = () => {
               <Image src="/naz.jpg" alt="Image 4" layout="fill" objectFit="cover" />
             </div>
           </div>
-          <Link href="/gallery" className="text-gray-400 mt-4 block">View All...</Link>
+          <Link href="/components/gallery" className="text-gray-400 mt-4 block">View All...</Link>
         </div>
 
         {/* Quick Contact */}

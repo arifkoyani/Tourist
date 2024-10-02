@@ -6,7 +6,10 @@ import b from "/public/b.png";
 import e from "/public/e.png";
 import AOS from 'aos';
 import { useEffect } from "react";
+import Footer from "../Footer/page";
 import 'aos/dist/aos.css';
+import Navbar from "../NavBar/page";
+import Secondbar from "../SecondBar/page";
 
 const Reviews = () => {
   useEffect(() => {
@@ -15,6 +18,8 @@ const Reviews = () => {
   
   return (
     <>
+    <Navbar/>
+    <Secondbar/>
       <div className="flex justify-center items-center h-[210px] bg-[#10623d]">
       <div data-aos="zoom-in" className="max-w-2xl mx-auto bg-[#10623d] text-white rounded-lg shadow-lg p-8">
           <h2 className="text-3xl font-bold mb-4 text-center border-b pb-4">
@@ -408,9 +413,12 @@ const Reviews = () => {
   </p>
   {/* Animated Border */}
   <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
+
+
 </div>
 
         </div>
+
       </div>
 
       <style jsx>{`
@@ -426,6 +434,11 @@ const Reviews = () => {
           animation: slide 20s linear infinite;
         }
       `}</style>
+
+
+<span className="mt-5"></span>
+<Footer/>
+
     </>
   );
 };

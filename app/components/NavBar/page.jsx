@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 const Navbar = () => {
   return (
-    <div className="bg-[#10623d] text-white py-4 ">
+    <div className="bg-gradient-to-l from-[#14918b] to-[#0c6478] text-white py-4">
       <div className="container mx-auto flex flex-col md:flex-row justify-around items-center space-y-4 md:space-y-0">
         {/* Left Side: Phone and Email */}
         <div className="flex flex-col md:flex-row items-center space-x-0 md:space-x-4 space-y-2 md:space-y-0">
