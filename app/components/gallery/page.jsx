@@ -12,6 +12,22 @@ const Gallery = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-3">
         <div className="grid gap-4">
 
+
+
+      
+
+        <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/b.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+
+
         <div>
             <Image
               className="h-auto max-w-full rounded-lg"
@@ -41,7 +57,28 @@ const Gallery = () => {
               height={300}
             />
           </div>
+
           <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="https://images.unsplash.com/photo-1610064095022-db1b488c05f1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              width={400}
+              height={300}
+              alt='image hu temple'
+            />
+          </div>
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/c.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+          <div>
+
+
             <Image
               className="h-auto max-w-full rounded-lg"
               src="https://images.unsplash.com/photo-1663698294067-332d68cfab97?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -79,6 +116,39 @@ const Gallery = () => {
               alt='mountain Picture'
             />
           </div>
+
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/f.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/g.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/h.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
         </div>
         <div className="grid gap-4">
           <div>
@@ -99,15 +169,67 @@ const Gallery = () => {
               height={300}
             />
           </div>
+
           <div>
             <Image
               className="h-auto max-w-full rounded-lg"
-              src="https://images.unsplash.com/photo-1610064095022-db1b488c05f1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="/images/i.jpg"
+              alt="image of hunza"
               width={400}
               height={300}
-              alt='image hu temple'
             />
           </div>
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/j.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/k.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/i.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/m.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/n.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+        
         </div>
         <div className="grid gap-4">
           <div>
@@ -124,6 +246,38 @@ const Gallery = () => {
               className="h-auto max-w-full rounded-lg"
               src="https://images.unsplash.com/photo-1582122183292-e660e1faecc4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Ahilya Ghat"
+              width={400}
+              height={300}
+            />
+          </div>
+
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/d.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/e.jpg"
+              alt="image of hunza"
+              width={400}
+              height={300}
+            />
+          </div>
+
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="/images/f.jpg"
+              alt="image of hunza"
               width={400}
               height={300}
             />
