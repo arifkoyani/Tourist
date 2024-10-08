@@ -1,9 +1,6 @@
 'use client';
 import { useState } from 'react';
 import { FiPlus, FiMinus } from 'react-icons/fi';
-import Footer from "../Footer/page"
-import Navbar from '../NavBar/page';
-import Secondbar from '../SecondBar/page';
 
 const FAQ = () => {
   // Define state to track which FAQ is open
@@ -68,9 +65,6 @@ const FAQ = () => {
 
   return (
     <div className="bg-gray-100  px-4 lg:px-0 ">
-        <Navbar/>
-        <Secondbar/>
-
       <div className="lg:container mt-8 lg:mx-auto lg:w-8/12 w-full">
       <h1 className="text-center text-3xl lg:text-4xl font-semibold text-gray-800 mb-8">FAQ&apos;s</h1>
 
@@ -96,7 +90,6 @@ const FAQ = () => {
           </div>
         </div>
       </div>
-      <Footer/>
     </div>
   );
 };

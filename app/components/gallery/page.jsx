@@ -1,12 +1,7 @@
 import Image from 'next/image';
-import Footer from "../Footer/page"
-import Navbar from '../NavBar/page';
-import Secondbar from '../SecondBar/page';
 const Gallery = () => {
   return (
     <>
-          <Navbar/>
-          <Secondbar/>
     <div className="container mx-auto p-4 bg-gradient-to-r from-[#14918b] to-[#0c6478]">
         
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-3">
@@ -25,8 +20,6 @@ const Gallery = () => {
               height={300}
             />
           </div>
-
-
 
         <div>
             <Image
@@ -110,7 +103,7 @@ const Gallery = () => {
           <div>
             <Image
               className="h-auto max-w-full rounded-lg"
-              src="https://images.unsplash.com/photo-1592860200849-d408778c15d6?q=80&w=1910&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1611821427154-edd4d40d7ea5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               width={400}
               height={300}
               alt='mountain Picture'
@@ -154,7 +147,7 @@ const Gallery = () => {
           <div>
             <Image
               className="h-auto max-w-full rounded-lg"
-              src="https://images.unsplash.com/photo-1592860200849-d408778c15d6?q=80&w=1910&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1611821427154-edd4d40d7ea5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Temple Image 5"
               width={400}
               height={300}
@@ -296,7 +289,6 @@ const Gallery = () => {
           </div>
         </div>
       </div>
-      <Footer/>
     </div>
     </>
 

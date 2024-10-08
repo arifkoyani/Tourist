@@ -60,8 +60,8 @@ const ContactUS = () => {
   };
 
   return (
-    <div className="bg-[#213a71] flex items-center justify-center py-10">
-      <div className="flex flex-col md:flex-row bg-[#213a71] rounded-lg shadow-2xl p-6 max-w-5xl mx-auto">
+    <div className="bg-transparent flex text-black items-center justify-center py-10">
+      <div className="flex flex-col md:flex-row bg-[#10623d] text-black rounded-lg shadow-2xl p-6 max-w-5xl mx-auto">
         
         {/* Contact Information Section */}
         <div className="md:w-1/2 flex flex-col justify-between pb-8 text-white">

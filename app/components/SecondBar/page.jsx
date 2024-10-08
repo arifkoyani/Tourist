@@ -18,7 +18,7 @@ const Secondbar = () => {
         </div>
 
         {/* Left Side: Navigation Links */}
-        <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-8">
+        <div className="flex  md:space-y-0 md:space-x-8  text-[14px] gap-2">
         <Link href="/" className="hover:text-black">
             Home
           </Link>

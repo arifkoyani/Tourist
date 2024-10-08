@@ -10,7 +10,13 @@ const nextConfig = {
         'staticimg.amarujala.com',
         "unsplash.com",
         "images.unsplash.com",
-        "scontent.fisb29-1.fna.fbcdn.net"
+        "scontent.fisb29-1.fna.fbcdn.net",
+        "the.ismaili",
+        "lh3.googleusercontent.com",
+        "www.apricottours.pk",
+        "https://encrypted-tbn0.gstatic.com",
+        "marketplace.canva.com"
+
       ],
     },
   };

@@ -36,7 +36,7 @@ const QuickContact = () => {
         <div className='flex flex-col'>
           <h3 className="text-lg font-bold mb-4">Quick Contact</h3>
           <p className='font-light text-sm'>
-            Mobile: <span className="font-light text-sm text-gray-300">+92 3004287493</span>
+            Mobile: <span className="font-light text-sm text-gray-300">+923350823823</span>
           </p>
           <p>
             <Link href="mailto:travelpakistan66@gmail.com" className="font-light text-gray-300">travelpakistan66@gmail.com</Link>
@@ -56,7 +56,7 @@ const QuickContact = () => {
             <Link href="#" className="text-white hover:text-gray-300">
               <FaYoutube className="w-6 h-6" />
             </Link>
-            <Link href="#" className="text-white hover:text-gray-300">
+            <Link href="https://www.instagram.com/travelat.ease?utm_source=qr&igsh=dm1iY2IxZ2lzbWk3" target='_blank' className="text-white hover:text-gray-300">
               <FaInstagram className="w-6 h-6" />
             </Link>
           </div>

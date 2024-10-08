@@ -7,7 +7,6 @@ const ContactComponent = () => {
       <div className="container mx-auto px-6 ">
         <h1 className="text-3xl font-bold text-center mb-8">Get in Touch travelatease.tae</h1>
         <div className="flex flex-col md:flex-row justify-around gap-5 items-start">
-          {/* Resident Office Section */}
           <div className="bg-[#213a71] text-[12px]  flex flex-col p-6 rounded-lg shadow-lg mb-6 md:mb-0 md:w-1/3">
             <h2 className="text-2xl font-semibold mb-4">Resident Office</h2>
             <p className="mb-2">House No: 126, St 19 I-9/1</p>
@@ -42,5 +41,4 @@ const ContactComponent = () => {
     </div>
   );
 };
-
 export default ContactComponent;

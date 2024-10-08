@@ -1,14 +1,11 @@
 'use client';
 
-import Navbar from '../NavBar/page';
-import Secondbar from '../SecondBar/page';
-import Footer from '../Footer/page';
+
 import AutumnAdventure from "./AutumnAdventure/page"
 const BlogWelcome = () => {
   return (
   <>
-        <Navbar/>
-        <Secondbar/>
+    
 
 
     <div className="relative py-5  w-full">
@@ -201,9 +198,6 @@ const BlogWelcome = () => {
     </div>
     </div>
 <AutumnAdventure/>
-
-
-<Footer/>
   </>
 
   );

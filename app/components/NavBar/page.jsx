@@ -38,7 +38,7 @@ const Navbar = () => {
           <Link href="#" className="hover:text-gray-400">
             <FaLinkedinIn />
           </Link>
-          <Link href="#" className="hover:text-gray-400">
+          <Link href="https://www.instagram.com/travelat.ease?utm_source=qr&igsh=dm1iY2IxZ2lzbWk3" target='_blank' className="hover:text-gray-400">
             <FaInstagram />
           </Link>
         </div>
