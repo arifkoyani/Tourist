@@ -29,7 +29,11 @@ const AstoreFairyMeadows = () => {
         Mode of Transport: Land Travel <br />
         Day 1 Departure from Islamabad{" "}
         <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
+        
+        <Link href="/components/BookNow/pages/astorevillage" target="-blank">
+        
           More info
+        </Link>
           <FaInfoCircle className="ml-1" />
         </span>
       </p>
@@ -38,7 +42,7 @@ const AstoreFairyMeadows = () => {
       <hr className="my-4" />
 
       {/* Book Now Button */}
-      <Link href="/components/BookNow/pages/astorevillage">
+      <Link href="https://wa.me/+923350823823" target="_blank">
       
       <button className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded-md w-full">
         BOOK NOW

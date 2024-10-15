@@ -4,13 +4,10 @@ import profilePic from "/public/arif.png";
 import b from "/public/b.png";
 import e from "/public/e.png";
 
-
 const Reviews = () => {
- 
-
   return (
     <>
-      <div className="flex justify-center items-center h-[210px] bg-[#10623d]">
+      <div className="flex justify-center items-center h-[210px] bg-[#0b698b]">
         <div
           data-aos="zoom-in"
           className=" mx-auto bg-[#128586] text-white rounded-lg shadow-lg p-8"
@@ -25,9 +22,8 @@ const Reviews = () => {
         </div>
       </div>
 
-      <div className="flex  bg-[#10623d]  pt-[20px] pb-[20px] overflow-hidden relative">
+      <div className="flex  bg-[#0b698b]  pt-[20px] pb-[20px] overflow-hidden relative">
         <div className="flex flex-col md:flex-row gap-5 md:px-5 text-white">
-
           <div className=" bg-transparent  w-fit text-white rounded-lg shadow-lg p-6 border-4 border-transparent hover:border-[#d78905] transition-all duration-300 relative overflow-hidden">
             <div className="relative flex  flex-col rounded-xl bg-transparent bg-clip-border text-gray-700 shadow-none mx-auto">
               <div className="relative  mx-0 mt-4 flex flex-col items-center gap-4 overflow-hidden rounded-xl bg-transparent bg-clip-border pt-0 pb-8 text-gray-700 shadow-none">
@@ -115,54 +111,22 @@ const Reviews = () => {
                     </div>
                   </div>
                   <p className="block font-sans text-base font-light leading-relaxed text-white antialiased">
-                    client from france
+                    France
                   </p>
                 </div>
               </div>
             </div>
 
             <p className="text-sm">
-            I was blown away by the level of care and attention Travelatease.tae provided. They went above and beyond to ensure we had a fantastic trip
+              I was blown away by the level of care and attention
+              Travelatease.tae provided. They went above and beyond to ensure we
+              had a fantastic trip
             </p>
 
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
           </div>
 
-
-
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
-
-        
           <div className="relative mx-0 mt-4 flex flex-col items-center gap-4 overflow-hidden rounded-xl bg-transparent bg-clip-border py-5 px-2   shadow-none">
             <Image
               src={b}
@@ -245,7 +209,7 @@ const Reviews = () => {
                 </div>
               </div>
               <p className="block font-sans text-base font-light leading-relaxed text-blue-gray-900 antialiased">
-                Client from USA
+                USA
               </p>
             </div>
             <p className="text-sm">
@@ -268,7 +232,7 @@ const Reviews = () => {
             <div className="flex w-full flex-col gap-0.5">
               <div className="flex items-center justify-between">
                 <h6 className="block font-sans leading-snug tracking-normal text-blue-gray-900 antialiased">
-                Emily Johnson
+                  Emily Johnson
                 </h6>
                 <div className="flex items-center gap-0">
                   <svg
@@ -310,24 +274,19 @@ const Reviews = () => {
                       clipRule="evenodd"
                     ></path>
                   </svg>
-                
-              
                 </div>
               </div>
               <p className="block font-sans text-base font-light leading-relaxed text-blue-gray-900 antialiased">
-                Client from Italy
+                Italy
               </p>
             </div>
             <p className="text-sm text-white">
-            Travelatease.tae made traveling stress-free and enjoyable. Their professional service and attention to detail are unmatched.
+              Travelatease.tae made traveling stress-free and enjoyable. Their
+              professional service and attention to detail are unmatched.
             </p>
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
           </div>
-
-
-
-
 
           <div className="relative mx-0 mt-4 flex flex-col p-2  items-center gap-1 overflow-hidden rounded-xl bg-clip-border  shadow-none">
             <Image
@@ -356,22 +315,19 @@ const Reviews = () => {
                       clipRule="evenodd"
                     ></path>
                   </svg>
-                
-                
-              
                 </div>
               </div>
               <p className="block font-sans text-base font-light leading-relaxed text-blue-gray-900 antialiased">
-                Client from paris
+                Paris
               </p>
             </div>
             <p className="text-sm text-white">
-            I was blown away by the level of care and attention Travelatease.tae provided
+              I was blown away by the level of care and attention
+              Travelatease.tae provided
             </p>
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
           </div>
-
 
           <div className="relative mx-0 mt-4 flex flex-col p-2  items-center gap-1 overflow-hidden rounded-xl bg-clip-border  shadow-none">
             <Image
@@ -413,18 +369,15 @@ const Reviews = () => {
                       clipRule="evenodd"
                     ></path>
                   </svg>
-                 
-                
-              
                 </div>
               </div>
               <p className="block font-sans text-base font-light leading-relaxed text-blue-gray-900 antialiased">
-                Client from canada
+                Canada
               </p>
             </div>
             <p className="text-sm text-white">
               Travelatease.tae provided an unforgettable travel experience for
-              me 
+              me
             </p>
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
@@ -441,7 +394,7 @@ const Reviews = () => {
             <div className="flex w-full flex-col gap-0.5">
               <div className="flex items-center justify-between">
                 <h6 className="block font-sans leading-snug tracking-normal text-blue-gray-900 antialiased">
-                Sarah Thompson
+                  Sarah Thompson
                 </h6>
                 <div className="flex items-center gap-0">
                   <svg
@@ -483,12 +436,10 @@ const Reviews = () => {
                       clipRule="evenodd"
                     ></path>
                   </svg>
-                
-              
                 </div>
               </div>
               <p className="block font-sans text-base font-light leading-relaxed text-blue-gray-900 antialiased">
-                Client from Italy
+                Italy
               </p>
             </div>
             <p className="text-sm text-white">
@@ -498,26 +449,8 @@ const Reviews = () => {
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
           </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
         </div>
       </div>
-
-      
 
       <span className="mt-5"></span>
     </>

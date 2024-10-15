@@ -61,10 +61,10 @@ const ContactUS = () => {
 
   return (
     <div className="bg-transparent flex text-black items-center justify-center py-10">
-      <div className="flex flex-col md:flex-row bg-[#10623d] text-black rounded-lg shadow-2xl p-6 max-w-5xl mx-auto">
+      <div className="flex flex-col md:flex-row bg-[#e6e1ca] text-black rounded-lg shadow-2xl p-6 max-w-5xl mx-auto">
         
         {/* Contact Information Section */}
-        <div className="md:w-1/2 flex flex-col justify-between pb-8 text-white">
+        <div className="md:w-1/2 flex flex-col justify-between pb-8 text-black">
           <span data-aos="fade-up">
             <h1 className="text-4xl font-bold mb-6">CONTACT INFO</h1>
             <div className="flex items-center gap-2 mb-4">
@@ -84,7 +84,7 @@ const ContactUS = () => {
         </div>
 
         {/* Message Section */}
-        <div className="md:w-1/2 flex flex-col justify-center p-8 text-white bg-[#10623d] rounded-lg">
+        <div className="md:w-1/2 flex flex-col justify-center p-8 text-black bg-[#004b91] rounded-lg">
           <h1 className="text-4xl font-bold mb-6">Message Us</h1>
           <p className="mb-4">
             We&apos;d love to hear from you! Send us a message using the form

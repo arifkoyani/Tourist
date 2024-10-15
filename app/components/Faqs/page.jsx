@@ -15,11 +15,11 @@ const FAQ = () => {
   const faqData = [
     {
       question: "How do I book a tour?",
-      answer: "You can easily book a tour through our website. Simply browse the available tours, choose your preferred dates, and click 'Book Now.'",
+      answer: "You can conveniently book a tour by reaching out to us via email, WhatsApp, or through our website. Just explore our available tours, select your desired dates, and click 'Book Now' to secure your reservation.",
     },
     {
       question: "What payment options are available?",
-      answer: "We accept credit/debit cards (Visa, MasterCard, American Express), PayPal, and bank transfers. International travelers can pay in multiple currencies.",
+      answer: "We accept payments via credit and debit cards, including Visa, MasterCard, and American Express, as well as bank transfers. International travelers can also pay in a variety of currencies for added convenience.",
     },
     {
       question: "What is your cancellation or refund policy?",
@@ -39,7 +39,7 @@ const FAQ = () => {
     },
     {
       question: "How many people are typically in a tour group?",
-      answer: "Our tour groups range from 8-15 people, offering an intimate and immersive experience, but some specialty tours can accommodate up to 25 people.",
+      answer: "We offer a variety of tour packages tailored for individuals, couples, FITs, and groups of all sizes. For groups of more than 10 people, we provide more flexible options that cater to their specific transportation and lodging needs.",
     },
     {
         question: " Travel Insurance: Is travel insurance included in the package?",
@@ -47,16 +47,16 @@ const FAQ = () => {
       },
       {
         question: "Language: What languages are the tours conducted in?",
-        answer: "Our tours are primarily conducted in English. However, we can arrange for guides who speak other languages, such as Spanish, French, or German, upon request. Please let us know your language preference when booking, and we will do our best to accommodate.",
+        answer: "Our tours are primarily conducted in English, but we can arrange for guides who speak other languages, including Spanish, French, German, Japanese, Chinese, and Arabic, upon request. Please inform us of your language preference when booking, and we will do our utmost to accommodate your needs.",
       },
 
       {
         question: "Dietary Restrictions: Can you accommodate dietary restrictions or preferences?",
-        answer: "Yes, we can accommodate most dietary restrictions or preferences, including vegetarian, vegan, gluten-free, and other special diets. Please notify us of your requirements when booking, so we can make the necessary arrangements with restaurants and accommodations during your tour."
+        answer: "We are happy to accommodate a variety of dietary restrictions and preferences, including vegetarian, vegan, gluten-free, diabetic, cholesterol-free, and other specialized diets. Please let us know your specific requirements when making your reservation, so we can ensure that appropriate arrangements are made with restaurants and accommodations throughout your tour."
       },
       {
         question: " Transportation: What type of transportation is provided during the tour?",
-        answer: "We provide comfortable and reliable transportation throughout the tour. Depending on the destination and group size, transportation may include air-conditioned buses, minivans, or private vehicles. For certain tours, domestic flights or train journeys may also be included. Details about the transportation for each tour are provided in the itinerary."
+        answer: "We offer comfortable and dependable transportation for all our tours. Depending on your destination and the size of your group, we provide various options, including air-conditioned buses, minivans, and private vehicles. In some cases, your journey may also feature domestic flights or train rides as part of the tour experience."
       }, {
         question: "Custom Tours: Can I customize a tour itinerary?",
         answer: "Absolutely! We offer custom tour planning for individuals and groups. Whether you want to extend your stay, visit specific destinations, or tailor the itinerary to your preferences, our team will work closely with you to design the perfect travel experience. Contact us for more information on customizing your trip."

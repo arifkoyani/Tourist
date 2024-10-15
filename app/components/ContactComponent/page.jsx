@@ -3,7 +3,7 @@ import React from "react";
 
 const ContactComponent = () => {
   return (
-    <div className="bg-[#10623d] text-white py-10">
+    <div className="bg-[#0b698b] text-white py-10">
       <div className="container mx-auto px-6 ">
         <h1 className="text-3xl font-bold text-center mb-8">Get in Touch travelatease.tae</h1>
         <div className="flex flex-col md:flex-row justify-around gap-5 items-start">

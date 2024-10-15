@@ -27,7 +27,10 @@ const TourCard = () => {
         <p className="text-sm text-gray-700 mb-4">
           Nanga Parbat Base Camp and Hunza Valley (2024-25) – 13 Days Nanga Parbat Trek and Hunza Valley{" "}
           <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
+           <Link  href="/components/BookNow/pages/NangaParbat" target='_blank'>
+
             More info
+           </Link>
             <FaInfoCircle className="ml-1" />
           </span>
         </p>
@@ -37,7 +40,7 @@ const TourCard = () => {
 
         {/* Book Now Button */}
 
-        <Link href="/components/BookNow/pages/NangaParbat">
+        <Link href="https://wa.me/+923350823823" target="_blank" >
         
         <button className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded-md w-full">
           BOOK NOW

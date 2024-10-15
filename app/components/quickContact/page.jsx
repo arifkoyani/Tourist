@@ -6,7 +6,7 @@ import { FaFacebookF, FaLinkedinIn, FaYoutube, FaInstagram, FaEnvelope } from 'r
 
 const QuickContact = () => {
   return (
-    <div className="bg-[#10623d] text-white my-20 py-10 px-6">
+    <div className="bg-[#0b698b] text-white my-20 py-10 px-6">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mx-auto">
         {/* Photo Gallery */}
         <div>

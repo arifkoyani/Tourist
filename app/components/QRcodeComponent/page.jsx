@@ -27,7 +27,7 @@ const QRcodeComponent = () => {
   };
 
   return (
-    <div className="w-full bg-[#10623d] h-screen text-white flex flex-col justify-center items-center gap-10 pt-30">
+    <div className="w-full bg-[#0b698b] h-screen text-white flex flex-col justify-center items-center gap-10 pt-30">
       <h1 className="font-bold text-[25px] first-letter:black">
         <span className="text-[#d78905]">Generate</span> a QR code and connect with us.
       </h1>

@@ -12,13 +12,13 @@ const WhyUsCard = () => {
           <FaQuestionCircle size={40} color="white" /> {/* Example: Why Us related icon */}
         </div>
       </div>
-      <h2 className="text-center text-2xl font-bold italic text-gray-700 mt-4 mb-4">
+      <h2 className="text-center text-2xl font-bold italic text-gray-700 mt-4 mb-1">
         Why Us
       </h2>
       <p className="text-center text-gray-600 text-sm">
-        We are professionals in the travel & tourism industry. Our trained and committed team of young professionals understands the ethos of tourism trade, ready to render high-quality services to our valued clients.
+      We are experts in the travel and tourism sector, supported by a passionate team of skilled young professionals who understand the fundamental principles of the industry. Our unwavering commitment to providing high-quality services guarantees an outstanding experience for our valued clients.
       </p>
-      <div className="flex justify-center mt-6">
+      <div className="flex justify-center mt-1">
    
    <Link href="/components/ClientReviews">
    

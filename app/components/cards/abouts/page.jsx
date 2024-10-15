@@ -18,7 +18,7 @@ const AboutUsCard = () => {
       </h2>
   
       <p className="text-center text-gray-600 text-sm">
-        We are a team of enthusiastic young professionals who understand the ethos of tourism trade and are ready to render high-quality services to our valued clients through a range of pleasing, adventurous...
+      We are an energetic team of dedicated young professionals with a deep understanding of the tourism industry. Our commitment to exceptional service enables us to offer a wide variety of enjoyable and adventurous experiences for our valued clients.
       </p>
       <div className="flex justify-center mt-6">
 

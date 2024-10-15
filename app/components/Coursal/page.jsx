@@ -40,7 +40,7 @@ const ImageCarousel = () => {
             {/* Image 1 */}
             <div className="relative w-full h-screen">
               <Image
-                src="/hunza.jpg" // Replace with the correct image path
+                src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/a8/43/f7/caption.jpg?w=1400&h=-1&s=1" // Replace with the correct image path
                 // Replace with the correct image path
                 alt="Image 1"
                 layout="fill"
@@ -53,6 +53,16 @@ const ImageCarousel = () => {
             <div className="relative w-full h-screen">
               <Image
                 src="/pak-china-scaled.jpg" // Replace with the correct image path
+                alt="Image 2"
+                layout="fill"
+                objectFit="cover"
+              />
+              <p className="legend">Find Difference</p>
+            </div>
+
+            <div className="relative w-full h-screen">
+              <Image
+                src="https://images.unsplash.com/photo-1633595726913-68e037dff159?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" // Replace with the correct image path
                 alt="Image 2"
                 layout="fill"
                 objectFit="cover"

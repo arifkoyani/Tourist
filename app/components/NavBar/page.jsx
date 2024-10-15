@@ -1,30 +1,22 @@
 'use client';
 
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from 'react-icons/fa';
-import { FiPhone, FiMail } from 'react-icons/fi';
 import Link from 'next/link';
 
 const Navbar = () => {
   return (
-    <div className="bg-gradient-to-l from-[#14918b] to-[#0c6478] text-white py-4">
+    <div className="bg-[#0b698b] text-[#e6e1ca] py-3">
       <div className="container mx-auto flex flex-col md:flex-row justify-around items-center space-y-4 md:space-y-0">
         {/* Left Side: Phone and Email */}
-        <div className="flex flex-col md:flex-row items-center space-x-0 md:space-x-4 space-y-2 md:space-y-0">
-          <div className="flex items-center space-x-1">
-            <FiPhone />
-            <span className="text-[12px]">051-4106110</span>
-          </div>
-          <div className="flex items-center space-x-1">
-            <FiMail />
-            <span className="text-[12px]">travelatease.tae@gmail.com</span>
-          </div>
-        </div>
+      
 
         {/* Center: Tagline */}
         <div className="text-center">
-          <h2 className="text-[12px]">
-            YOUR TRUSTED PARTNER IN EXCEPTIONAL TRAVEL EXPERIENCES
-          </h2>
+        <h2 className="text-xl md:text-2xl lg:text-3xl font-extrabold text-[#f97316] leading-tight tracking-wide uppercase transition-colors duration-500 hover:text-black animate-pulse">
+  Your Trusted Partner in Exceptional Travel Experiences
+</h2>
+
+
         </div>
 
         {/* Right Side: Social Links */}

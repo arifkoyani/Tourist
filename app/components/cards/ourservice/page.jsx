@@ -15,7 +15,7 @@ const ServicesCard = () => {
         Services
       </h2>
       <p className="text-center text-gray-600 text-sm">
-        At <span className="font-bold">Pakistan travel & Tours</span>, our personalized tour plans are designed for relaxation, to rejuvenate your energy and to get your precious time spent along with your loved ones in a remarkable and memorable...
+      At Travel at Ease, we offer tailored tour plans that prioritize relaxation and rejuvenation, ensuring you spend quality time with your loved ones. Our aim is to create remarkable and memorable experiences that leave you refreshed and enriched.
       </p>
       <div className="flex justify-center mt-6">
    

@@ -29,7 +29,10 @@ const OneDayTour = () => {
   Mode of Transport: Land Travel <br />
   Day 1 Pickup and departure fr{" "}
   <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
+   <Link href="/components/BookNow/pages/OnedayTour" target="_blank">
+
     More info
+   </Link>
     <FaInfoCircle className="ml-1" />
   </span>
 </p>
@@ -39,7 +42,7 @@ const OneDayTour = () => {
 
       {/* Book Now Button */}
 
-      <Link href="/components/BookNow/pages/OnedayTour">
+      <Link href="https://wa.me/+923350823823" target="_blank" >
       
     
       <button className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded-md w-full">

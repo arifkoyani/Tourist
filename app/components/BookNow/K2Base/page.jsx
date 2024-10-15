@@ -37,7 +37,11 @@ const K2BaseCampTrek = () => {
         K2 Base Camp Trek (2024-25) – 21 days <br />
         K2 base camp trek is the most popular trekking holiday for{" "}
         <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
+         
+         <Link href="/components/BookNow/pages/k2base" target="_blank">
+         
           More info
+         </Link>
         </span>
       </p>
 
@@ -46,7 +50,7 @@ const K2BaseCampTrek = () => {
 
       {/* Book Now Button */}
 
-      <Link href="/components/BookNow/pages/k2base">
+      <Link href="https://wa.me/+923350823823" target="_blank">
       
       <button className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded-md w-full">
         BOOK NOW
