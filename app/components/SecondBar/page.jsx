@@ -8,7 +8,8 @@ import { FaWhatsapp } from 'react-icons/fa';
 
 const Secondbar = () => {
   return (
-    <div className="bg-[#0b698b] text-white py-6 px-4 sm:px-6 md:px-10">
+<div className="bg-[#0b698b] text-white py-6 px-4 sm:px-6 md:px-10 shadow-lg shadow-gray-500/80">
+
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between">
         {/* Logo */}
         <div className="flex w-fit  mt-2 gap-5 mb-4 md:mb-0">
