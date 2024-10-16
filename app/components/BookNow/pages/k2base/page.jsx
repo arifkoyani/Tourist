@@ -8,10 +8,10 @@ const K2BaseCampTrek = () => {
     <>
       <div>
         <div>
-        <span className="flex justify-center text-5xl font-bold p-10 bg-[#1f2937]">
+        <span className="flex justify-center text-5xl font-bold p-10 bg-[#e6e1ca]">
         <h1 className="text-[#118485] px-4 ">K2 Base Camp Trek</h1>
         </span>
-          <div className="w-full bg-gray-800 flex justify-center pt-5 h-screen mx-auto p-1 relative">
+          <div className="w-full bg-[#e6e1ca] flex justify-center pt-5 h-screen mx-auto p-1 relative">
             <Carousel
               showThumbs={false}
               showStatus={false}
@@ -98,10 +98,11 @@ const K2BaseCampTrek = () => {
               </div>
             </Carousel>
           </div>
+
         </div>
       </div>
 
-      <div className="bg-gray-800 text-[12px] py-10 px-4 sm:px-6 lg:px-8">
+      <div className="bg-[#e6e1ca] text-[12px] py-10 px-4 sm:px-6 lg:px-8">
         {/* Title */}
         <div className="text-center mb-10">
           <h1 className="text-3xl font-bold text-gray-800">

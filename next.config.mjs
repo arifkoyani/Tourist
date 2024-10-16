@@ -30,7 +30,8 @@ const nextConfig = {
         "rozefstourism.com",
         "besttourpoints.com",
         "eagleeye.com.pk",
-        "www.travelgirls.pk"
+        "cdn.tourradar.com",
+        "trangoadventure.com"
 
       ],
     },

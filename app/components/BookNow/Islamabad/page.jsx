@@ -28,7 +28,7 @@ const Islamabad = () => {
       <p className="text-sm text-gray-700 mb-4">
       Itinerary Code: AT 199 Duration: 3 Days Mode of Transport: Land Travel Day 1 Departure from Islamaba 
         <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
-        <Link href="/components/BookNow/pages/HunzaAndSkardu" target="_blank">
+        <Link href="/components/BookNow/pages/IslamabadKhanpur" target="_blank">
         
           More info
         </Link>

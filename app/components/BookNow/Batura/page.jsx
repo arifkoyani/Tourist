@@ -29,7 +29,7 @@ const Batura = () => {
       <p className="text-sm text-gray-700 mb-2">
   Batura Glacier is world&rsquo;s 7th longest non-polar glacier and Pakistan&rsquo;s 4th longest glacier
   <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
-    <Link href="/components/BookNow/pages/HunzaAndSkardu" target="_blank">
+    <Link href="/components/BookNow/pages/BaturaGlacier" target="_blank">
       More info
     </Link>
   </span>

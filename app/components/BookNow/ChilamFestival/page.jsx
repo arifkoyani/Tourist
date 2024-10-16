@@ -28,7 +28,7 @@ const ChilamFestival = () => {
       <p className="text-sm text-gray-700 mb-4">
       Chilam Joshi Festival (2024-25) – 15 Days Chilam Joshi festival is one of the top cultural fes
         <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
-        <Link href="/components/BookNow/pages/HunzaAndSkardu" target="_blank">
+        <Link href="/components/BookNow/pages/ChilamJoshi" target="_blank">
         
           More info
         </Link>

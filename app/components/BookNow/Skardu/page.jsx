@@ -28,7 +28,7 @@ const SkarduShigarGhanche = () => {
       <p className="text-sm text-gray-700 mb-4">
       Itinerary Code: AT 164 Duration: 6 Days Mode of Transport: Air Travel (Flight) Day 1 Fly to Skardu
         <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
-        <Link href="/components/BookNow/pages/HunzaAndSkardu" target="_blank">
+        <Link href="/components/BookNow/pages/skardushigar" target="_blank">
         
           More info
         </Link>
