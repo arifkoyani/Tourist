@@ -141,7 +141,10 @@ const ChilamJoshi = () => {
     <li className="text-gray-700">Experience the culture of ethnic minority communities of Hunza</li>
     <li className="text-gray-700">Participate and dance to the tunes of Hunza drums</li>
     <li className="text-gray-700">Enjoy Hunzai and Pakistani cuisine</li>
-    <li className="text-gray-700">Opportunity to interact with Hunza's community members including men, women, and children</li>
+    <li className="text-gray-700">
+  Opportunity to interact with Hunza&apos;s community members including men, women, and children
+</li>
+
     <li className="text-gray-700">View of hundreds of peaks including Rakaposhi (7,788m), Passu Sar (7,478m), and Ultar Sar (7,388m) in the Karakoram Range</li>
     <li className="text-gray-700">Rivers (Hunza, Nagar, Gilgit, Indus, Kunhar), tributaries, and streams</li>
     <li className="text-gray-700">Babusar Pass (4,173m), Khunjerab Pass (4,733m), and Attabad Tunnel (7km)</li>
@@ -230,11 +233,12 @@ const ChilamJoshi = () => {
   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
     {/* Accommodation */}
     <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Shelton's Rezidor (see pictures), PTDC Motel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Swat.
-      </p>
-    </div>
+  <h4 className="font-bold text-lg">Accommodation</h4>
+  <p className="mt-2 text-gray-200">
+    Twin-sharing room at Shelton&apos;s Rezidor (see pictures), PTDC Motel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Swat.
+  </p>
+</div>
+
 
     {/* Meals */}
     <div className="bg-green-600 text-white p-4 rounded-lg">
@@ -257,10 +261,15 @@ const ChilamJoshi = () => {
 
   {/* On this Day Section */}
   <div className="mb-6">
-    <h4 className="font-bold text-lg mb-2">On this Day</h4>
-    <p className="text-gray-700 mb-4">
-      Today we will set off from Swat to Chitral. We will travel through the Lowari Tunnel, which is about 10.4 kms long and connects Dir and Chitral. Before the construction of the tunnel, passengers traveled via Lowari Pass, and the Chitral Region was disconnected from the rest of the country for 6 months. We will reach Ayun, a village close to the Kalasha Tribes, and a beautiful valley to explore. Our stay will be at the Ayun Fort, known for its biological gardens and stunning bird’s-eye view of the valley and river. We will spend the night at Ayun Fort.
-    </p>
+  <h4 className="font-bold text-lg mb-2">On this Day</h4>
+  <p className="text-gray-700 mb-4">
+  Today we will set off from Swat to Chitral. We will travel through the Lowari Tunnel, which is about 10.4 kms long and connects Dir and Chitral. Before the construction of the tunnel, passengers traveled via Lowari Pass, and the Chitral Region was disconnected from the rest of the country for 6 months. We will reach Ayun, a village close to the Kalasha Tribes, and a beautiful valley to explore. Our stay will be at the Ayun Fort, known for its biological gardens and stunning bird&apos;s-eye view of the valley and river. We will spend the night at Ayun Fort.
+</p>
+
+
+
+
+
 
     {/* GPS Data */}
     <div className="mb-4">
@@ -557,8 +566,9 @@ const ChilamJoshi = () => {
   <div className="mb-6">
     <h4 className="font-bold text-lg mb-2">On this Day</h4>
     <p className="text-gray-700 mb-4">
-      This day will be exciting as we will travel to Hunza, a region offering beautiful scenery, glaciers, towering mountains, lakes, rich culture, and heritage. We will also see the 8th wonder of the world, the Karakoram Highway. During our journey along this highway, we will view the old silk route used for trade centuries ago. We will stop at Rakaposhi View Point, enjoying a cup of tea or coffee while taking in the breeze from the "Mother of Mist." As we proceed to Hunza, we will see magnificent peaks through the windows. Upon arrival in Karimabad, the stunning view of Rakaposhi will awe every nature lover. We will visit Baltit Fort, Altit Fort, explore the Karimabad Market, and later head to the famous Eagle’s Nest View Point to experience the sunset over the mighty peaks.
-    </p>
+  This day will be exciting as we will travel to Hunza, a region offering beautiful scenery, glaciers, towering mountains, lakes, rich culture, and heritage. We will also see the 8th wonder of the world, the Karakoram Highway. During our journey along this highway, we will view the old silk route used for trade centuries ago. We will stop at Rakaposhi View Point, enjoying a cup of tea or coffee while taking in the breeze from the &quot;Mother of Mist.&quot; As we proceed to Hunza, we will see magnificent peaks through the windows. Upon arrival in Karimabad, the stunning view of Rakaposhi will awe every nature lover. We will visit Baltit Fort, Altit Fort, explore the Karimabad Market, and later head to the famous Eagle’s Nest View Point to experience the sunset over the mighty peaks.
+</p>
+
 
     {/* GPS Data */}
     <div className="mb-4">
