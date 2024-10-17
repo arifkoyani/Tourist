@@ -6,7 +6,7 @@ const HunzaValleyCard = () => {
     <div className="relative  mx-auto bg-white rounded-xl shadow-lg overflow-hidden p-4">
       <div className="relative w-full h-64">
         <Image
-          src="/hunza.jpg" // Replace with the correct image path
+          src="https://i.ytimg.com/vi/A5kmqftmWjc/maxresdefault.jpg" // Replace with the correct image path
           alt="Hunza Valley Tours"
           width={270}
           height={200}

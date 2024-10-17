@@ -31,7 +31,9 @@ const nextConfig = {
         "besttourpoints.com",
         "eagleeye.com.pk",
         "cdn.tourradar.com",
-        "trangoadventure.com"
+        "trangoadventure.com",
+        "media-cdn.tripadvisor.com",
+        "i.ytimg.com"
 
       ],
     },

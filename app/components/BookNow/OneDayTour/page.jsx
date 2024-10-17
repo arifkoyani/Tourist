@@ -9,7 +9,7 @@ const OneDayTour = () => {
       {/* Image */}
       <div className="relative w-full h-48 mb-4">
         <Image
-          src="https://www.apricottours.pk/wp-content/uploads/2024/04/shimshal-chafchingol-chapchingol-6.png" // replace this with the actual image path
+          src="https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/a2/1d/29.jpg" // replace this with the actual image path
           alt="Skardu & Hunza"
           layout="fill"
           objectFit="cover"
