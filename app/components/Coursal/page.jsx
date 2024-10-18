@@ -103,7 +103,7 @@ const ImageCarousel = () => {
             </div>
             <div className="relative w-full h-screen">
               <Image
-                src="https://lh3.googleusercontent.com/ci/AL18g_SHvOLFwp3RUWGU0L-ra_CcD3D8bqrIExhfO2VtVxpK3LVofSCnZCfGeg9W7v8vuubKg3XLVq5k=s1200"
+                src="https://i.natgeofe.com/n/95e0a142-5cda-40e4-b89c-040f286da03f/kaghan-valley-swat-pakistan.jpg"
                 alt="Image 4"
                 layout="fill"
                 objectFit="cover"

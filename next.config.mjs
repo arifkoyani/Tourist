@@ -34,7 +34,8 @@ const nextConfig = {
         "trangoadventure.com",
         "media-cdn.tripadvisor.com",
         "i.ytimg.com",
-        "www.wildfrontierstravel.com"
+        "www.wildfrontierstravel.com",
+        "i.natgeofe.com"
 
       ],
     },
