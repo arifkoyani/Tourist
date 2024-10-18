@@ -12,7 +12,6 @@ const astoreVillage = () => {
           <p className="text-gray-600">Duration: 10 Days</p>
           <p className="text-gray-600">Mode of Transport: Land Travel</p>
         </div>
-
         <div className="bg-white shadow-md rounded-lg p-6 mb-5">
           <h2 className="text-xl font-semibold text-gray-800">Day 1</h2>
           <ul className="list-disc ml-5 mt-2 text-gray-700">
@@ -36,7 +35,7 @@ const astoreVillage = () => {
     <li>Stop at Astore Bazaar</li>
     <li>Jeep drive to Rama on non-metalled road. Ascend towards hotel/guest house in Rama</li>
     <li>Drive towards Rama lake (walk in some scenarios) for photography (views of Nanga Parbat)</li>
-    <li>Night stay in Rama/Astore (depending on hotel availability)</li>
+    <li>Night stay in Rama/Astore (Depending On hotel availability)</li>
   </ul>
 </div>
 
