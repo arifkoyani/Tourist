@@ -8,7 +8,7 @@ const Indroduce = () => {
         <h1 className="text-2xl md:text-3xl font-bold mb-6 md:mb-12 font-serif text-[#004b91]">
         Welcome to Travel at Ease
         </h1>
-        <p className="text-[12px] md:text-sm text-black">
+        <p className="text-[12px] md:text-sm text-justify text-black">
           Pakistan boasts an extraordinary blend of natural beauty, where its landscapes range from serene beaches along the Makran Coast to the expansive Thar Desert. The country offers a stunning array of natural wonders, with its plains flourishing in greenery and its towering peaks, such as K2 and Nanga Parbat, standing proudly against the sky. Pakistan&apos;s historical heritage is equally rich, with ancient archaeological treasures like Mohenjo-Daro, a UNESCO World Heritage Site that offers a window into the Indus Valley Civilization, and Taxila, a relic of the Buddhist era. The grandeur of the Mughal era can still be seen in the form of awe-inspiring tombs, mosques, and forts scattered across the land. Cities like Lahore, with its Mughal architectural marvels, and Islamabad, the modern capital, present a juxtaposition of history and contemporary life. Smaller towns like Hunza and Skardu preserve the essence of traditional Pakistani culture, while Karachi pulsates with urban dynamism. A journey through Pakistan is a journey through breathtaking landscapes and a rich historical legacy, leaving visitors with unforgettable memories.
         </p>
       </div>

@@ -14,7 +14,7 @@ const BlogWelcome = () => {
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: 'url("/hunza.jpg")', // Replace with your image path
+          backgroundImage: 'url("https://www.wildfrontierstravel.com/upload/mirror/dhruv-wildfrontierstravel-com/fa1e50f8_dreamstimem103980811.jpg")', // Replace with your image path
         }}
       />
 

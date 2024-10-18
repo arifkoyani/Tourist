@@ -24,7 +24,7 @@ const AstoreFairyMeadows = () => {
 
       {/* Itinerary Information */}
       <p className="text-sm text-gray-700 mb-4">
-        Itinerary Code: AT 194 <br />
+     
         Duration: 5 Days <br />
         Mode of Transport: Land Travel <br />
         Day 1 Departure from Islamabad{" "}

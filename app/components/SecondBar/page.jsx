@@ -15,7 +15,7 @@ const Secondbar = () => {
         <div className="flex w-fit  mt-2 gap-5 mb-4 md:mb-0">
         <Link href="/">
           <Image
-            src="/logo.png"
+            src="/logoo.png"
             width={90}
             height={60}
             alt="logo"

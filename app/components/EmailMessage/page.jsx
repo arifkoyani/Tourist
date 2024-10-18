@@ -1,7 +1,6 @@
 'use client';
 
 import Image from "next/image";
-import location from "/public/location.png";
 import whatsapp from "/public/whatspp.png";
 import gmail from "/public/gmal.png";
 import React, { useRef, useEffect } from "react";
@@ -67,10 +66,7 @@ const ContactUS = () => {
         <div className="md:w-1/2 flex flex-col justify-between pb-8 text-black">
           <span data-aos="fade-up">
             <h1 className="text-4xl font-bold mb-6">CONTACT INFO</h1>
-            <div className="flex items-center gap-2 mb-4">
-              <Image src={location} width={20} height={20} alt="location icon" />
-              <span>Jutial Gilgit, PAKISTAN</span>
-            </div>
+         
             <div className="flex items-center gap-2 mb-4">
               <Image src={gmail} width={20} height={20} alt="email icon" />
               <span>travelatease.tae@gmail.com</span>
