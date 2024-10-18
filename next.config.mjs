@@ -33,7 +33,8 @@ const nextConfig = {
         "cdn.tourradar.com",
         "trangoadventure.com",
         "media-cdn.tripadvisor.com",
-        "i.ytimg.com"
+        "i.ytimg.com",
+        "www.wildfrontierstravel.com"
 
       ],
     },

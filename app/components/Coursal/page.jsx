@@ -18,7 +18,7 @@ const ImageCarousel = () => {
           >
             <div className="relative w-full h-screen">
               <Image
-                src="/company.jpg" // Replace with the correct image path
+                src="https://www.wildfrontierstravel.com/upload/mirror/dhruv-wildfrontierstravel-com/fa1e50f8_dreamstimem103980811.jpg" // Replace with the correct image path
                 // Replace with the correct image path
                 alt="Image 1"
                 layout="fill"
