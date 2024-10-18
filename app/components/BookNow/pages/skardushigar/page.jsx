@@ -11,7 +11,7 @@ const Skardushigar = () => {
 
   {/* Main Heading */}
   <h3 className="text-3xl md:text-4xl font-extrabold text-center text-gray-900 mb-4">
-    Itinerary Code: AT 164
+  Skardu, Shigar, Ghanche and Kharmang (6 Days)
   </h3>
 
   {/* Description */}
@@ -29,7 +29,7 @@ const Skardushigar = () => {
   {/* General Section */}
   <div className="flex justify-center items-center mb-4">
     <div className="bg-orange-500 h-6 w-6 mr-3"></div>
-    <h2 className="text-2xl font-bold text-gray-800">Itinerary</h2>
+    <h2 className="text-2xl font-bold text-gray-800">Welcome</h2>
   </div>
 
   {/* Day 1 */}

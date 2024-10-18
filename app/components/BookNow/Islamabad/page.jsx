@@ -19,7 +19,7 @@ const Islamabad = () => {
 
       {/* Title */}
       <h2 className="text-xl font-bold text-gray-800 mt-1">
-      Islamabad, Khanpur, Ayubia and Murree (3 Days)
+      Islamabad, Khanspur, Ayubia and Murree (3 Days)
       </h2>
 
     

@@ -22,7 +22,7 @@ const QuickContact = () => {
             </div>
             {/* Image 3 */}
             <div className="relative w-full h-20 md:h-24">
-              <Image src="/hunza.jpg" alt="Image 3" layout="fill" objectFit="cover" />
+              <Image src="/exporepk.jpg" alt="Image 3" layout="fill" objectFit="cover" />
             </div>
             {/* Image 4 */}
             <div className="relative w-full h-20 md:h-24">
