@@ -37,7 +37,7 @@ const Batura = () => {
 
 
       {/* Divider */}
-      <hr className="my-4" />
+      <hr className="my-2" />
 
       {/* Book Now Button */}
 

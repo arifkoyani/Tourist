@@ -33,7 +33,7 @@ const K2BaseCampTrek = () => {
       </div> */}
 
       {/* Itinerary Information */}
-      <p className="text-sm text-gray-700 mb-4">
+      <p className="text-sm text-gray-700 mb-1">
         K2 Base Camp Trek (2024-25) – 21 days <br />
         K2 base camp trek is the most popular trekking holiday for{" "}
         <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
@@ -46,7 +46,7 @@ const K2BaseCampTrek = () => {
       </p>
 
       {/* Divider */}
-      <hr className="my-4" />
+      <hr className="my-2" />
 
       {/* Book Now Button */}
 

@@ -18,7 +18,7 @@ const ImageCarousel = () => {
           >
             <div className="relative w-full h-screen">
               <Image
-                src="https://www.wildfrontierstravel.com/upload/mirror/dhruv-wildfrontierstravel-com/fa1e50f8_dreamstimem103980811.jpg" // Replace with the correct image path
+                src="/coverr.jpg" // Replace with the correct image path
                 // Replace with the correct image path
                 alt="Image 1"
                 layout="fill"
@@ -67,7 +67,7 @@ const ImageCarousel = () => {
                 layout="fill"
                 objectFit="cover"
               />
-              <p className="legend">Find Difference</p>
+              <p className="legend">Find The Difference</p>
             </div>
 
             {/* Image 3 */}

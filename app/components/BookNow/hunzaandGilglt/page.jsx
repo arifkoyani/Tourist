@@ -26,7 +26,7 @@ const HunzaAndGilgit = () => {
 
       {/* Itinerary Information */}
       <p className="text-sm text-gray-700 mb-4">
-      Itinerary Code: AT 186 Duration: 7 Days Mode of Transport: Land Travel Day 1 Departure from Islamab
+      Duration: 7 Days Mode of Transport: Land Travel Day 1 Departure from Islamab
         <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
         <Link href="/components/BookNow/pages/hunzaviaKKH" target="_blank">
         

@@ -26,8 +26,8 @@ const SkarduHunza = () => {
 
       {/* Itinerary Information */}
       <p className="text-sm text-gray-700 mb-4">
-        hunza city Camp Trek (2024-25) – 10 days <br />
-        hunza city  trek is the most popular trekking holiday for{" "}
+        Hunza City Camp Trek (2024-25) – 10 days <br />
+        Hunza City  trek is the most popular trekking holiday for{" "}
         <span className="text-orange-500 font-medium hover:underline inline-flex items-center">
         <Link href="/components/BookNow/pages/HunzaAndSkardu" target="_blank">
         

@@ -13,7 +13,6 @@ const OnedayTour = () => {
         Murree ,Taxila ,Old Mussem ,Lahore (1 day Tours)
 
         </h1>
-        <p className="text-gray-600 mt-2">Itinerary Code: AT 190</p>
         <p className="text-gray-600">Duration: 1 Days</p>
         <p className="text-gray-600">Mode of Transport: Land Travel</p>
       </div>

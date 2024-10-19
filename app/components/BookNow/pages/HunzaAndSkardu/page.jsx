@@ -8,7 +8,6 @@ const HunzaAndSkardu = () => {
         <h1 className="text-3xl font-bold text-gray-800">
           Skardu & Hunza 10-Day Luxury Tour
         </h1>
-        <p className="text-gray-600 mt-2">Itinerary Code: AT 190</p>
         <p className="text-gray-600">Duration: 10 Days</p>
         <p className="text-gray-600">Mode of Transport: Land Travel</p>
       </div>
