@@ -16,7 +16,7 @@ const geistMono = localFont({
   weight: "100 900",
 });
 export const metadata = {
-  title: "travel at ease",
+  title: "Travel at Ease",
   description: "Welcome To Pakistan",
   icons: {
     icon: "/logo.png", 
