@@ -119,7 +119,7 @@ const Reviews = () => {
 
             <p className="text-sm">
               I was blown away by the level of care and attention
-              Travel At Ease provided. They went above and beyond to ensure we
+              Travel at Ease provided. They went above and beyond to ensure we
               had a fantastic trip
             </p>
 
@@ -213,7 +213,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm">
-            Travel At Ease is an exceptional travel company that transformed
+            Travel at Ease is an exceptional travel company that transformed
               our vacation into an unforgettable adventure.
             </p>
 
@@ -281,7 +281,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm text-white">
-            Travel At Ease made traveling stress-free and enjoyable. Their
+            Travel at Ease made traveling stress-free and enjoyable. Their
               professional service and attention to detail are unmatched.
             </p>
             {/* Animated Border */}
@@ -323,7 +323,7 @@ const Reviews = () => {
             </div>
             <p className="text-sm text-white">
               I was blown away by the level of care and attention
-              Travel At Ease provided
+              Travel at Ease provided
             </p>
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
@@ -376,7 +376,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm text-white">
-            Travel At Ease provided an unforgettable travel experience for
+            Travel at Ease provided an unforgettable travel experience for
               me
             </p>
             {/* Animated Border */}
@@ -443,7 +443,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm text-white">
-            Travel At Ease provided an unforgettable travel experience for
+            Travel at Ease provided an unforgettable travel experience for
               me and my family.
             </p>
             {/* Animated Border */}
