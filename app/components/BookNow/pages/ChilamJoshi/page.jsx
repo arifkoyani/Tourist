@@ -64,7 +64,7 @@ const ChilamJoshi = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Find Difference</p>
+                <p className="legend">Find The Difference</p>
               </div>
 
               {/* Image 3 */}
@@ -75,7 +75,7 @@ const ChilamJoshi = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Discover Nature</p>
+                <p className="legend">Discover The Nature</p>
               </div>
 
               {/* Image 4 */}
@@ -135,7 +135,6 @@ const ChilamJoshi = () => {
     <li className="text-gray-700">Malakand pass, Lowari Pass (3,118m) or Lowari Tunnel (10.4 kms)</li>
     <li className="text-gray-700">Valleys of Khyber including Dir, Chitral, and Kalash</li>
     <li className="text-gray-700">Views of forts (Malakand, Nagar, Ayun & Chitral) and Mosques (Shahi Masjid)</li>
-    <li className="text-gray-700">Churchil Picket, Malakand</li>
 
     {/* Hunza Highlights */}
     <li className="text-gray-700">Experience the culture of ethnic minority communities of Hunza</li>
@@ -179,31 +178,9 @@ const ChilamJoshi = () => {
       On the first day of this great adventure we will start by exploring Islamabad in the afternoon. We will visit Heritage Museum to understand and explore the culture of multi nations living in Pakistan. Afterwards we will have lunch and go ahead to explore Pakistan Museum. Later, we will visit Faisal Mosque, the famous landmark of the city and then continue to drive towards the highest view point of Islamabad (Pir Sohawa/Daman e Koh). We will also explore Super Market and after a taste of traditional food, we will call it a day after having a scoop of ice cream from a famous ice cream shop.
     </p>
     
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 540 m</p>
-    </div>
+
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Chateau Royale (see pictures), Prestige Residence (see pictures), or equivalent standard partner hotel (depends on occupancy) in Islamabad.
-      </p>
-    </div>
-
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 
 <div>
@@ -223,31 +200,10 @@ const ChilamJoshi = () => {
     </p>
 
     {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 975 m</p>
-    </div>
+  
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-  <h4 className="font-bold text-lg">Accommodation</h4>
-  <p className="mt-2 text-gray-200">
-    Twin-sharing room at Shelton&apos;s Rezidor (see pictures), PTDC Motel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Swat.
-  </p>
-</div>
-
-
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
+ 
 </div>
 
 </div>
@@ -271,31 +227,10 @@ const ChilamJoshi = () => {
 
 
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 1,050 m</p>
-    </div>
+
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Pamir Inn (see pictures), Tirich Mir View Hotel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Chitral.
-      </p>
-    </div>
 
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 <div>
 
@@ -312,31 +247,10 @@ const ChilamJoshi = () => {
       Today we will go to Rumbur Valley, one of the main villages of the Kalasha Tribe, to experience the Chilam Joshi Festival. This is one of the main festivals of the Kalasha Tribe, celebrated to welcome spring in the region. We will walk to the town center to experience the unique culture of the Kalasha people. For lunch, we will have the opportunity to eat in a local house and enjoy traditional Kalasha cuisine. In the evening, we will drive to Bumburet for an overnight stay.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 1,100 m</p>
-    </div>
+  
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at PTDC Motel (see pictures) or equivalent standard partner hotel (depends on occupancy) in Kalash.
-      </p>
-    </div>
 
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 
 </div>
@@ -357,31 +271,10 @@ const ChilamJoshi = () => {
       On this day, we will start exploring the Bumburet Valley. We will visit the local museum, the Kalasha Graveyard, and the Town Centre. Later, we will join the mega festival as all the tribes gather in Bumburet. There will be dancing, photography, and interactions with the Kalasha Tribe to experience this unique culture firsthand. Afterward, we will travel to Chitral and stay overnight at Pamir Hotel alongside the Chitral River.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 1,100 m</p>
-    </div>
+ 
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Pamir Inn (see pictures), Tirich Mir View Hotel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Chitral.
-      </p>
-    </div>
 
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 <div>
 
@@ -400,28 +293,13 @@ const ChilamJoshi = () => {
 
     {/* GPS Data */}
     <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
+      
       <p className="text-gray-700">Altitude: 1,494 m</p>
     </div>
   </div>
 
   {/* Accommodation and Meals */}
   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Pamir Inn (see pictures), Tirich Mir View Hotel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Chitral.
-      </p>
-    </div>
-
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
   </div>
 </div>
 
@@ -440,31 +318,9 @@ const ChilamJoshi = () => {
       On this day, we will travel from Chitral Town to Mastuj, the main village of Yarkhud Valley. This valley borders Gilgit-Baltistan on one side and Afghanistan on the other. We will pass many villages along the river gorge. Upon arrival in Mastuj, we will take a walk around the village to meet and greet the local community. We will stay in Mastuj for the night.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 2,359 m</p>
-    </div>
+  
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at PTDC Motel Mastuj (see pictures) or equivalent standard partner hotel (depends on occupancy) in Mastuj.
-      </p>
-    </div>
-
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 
 </div>
@@ -483,30 +339,7 @@ const ChilamJoshi = () => {
       On this day, we will travel from Chitral to Gupis, also known as Khalti, which is part of the Ghizer District in the Gilgit-Baltistan Region. Our journey will take us through the Shandur Pass and the villages of Laspur. We will stop briefly at Shandur to experience the high alpine Shandur Lake and the Shandur Polo Ground, the highest polo ground in the world. The drive will take us through the pastures and meadows of Barsit, Langar, and Teru. We will also make a short stop at Phandar Valley, known for its lush green landscape and beautiful still lake. Upon arrival at Khalti, we will check in to the hotel and later explore the nearby villages and take photographs at Khalti Lake. We will enjoy Trout Fish as one of our cuisines on this day.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 2,217 m</p>
-    </div>
-  </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at PTDC Motel (see pictures) or equivalent standard partner hotel (depends on occupancy) in Gupis.
-      </p>
-    </div>
-
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
   </div>
 </div>
 
@@ -526,31 +359,9 @@ const ChilamJoshi = () => {
       On this day, we will travel from Khalti to Gilgit, the capital city of the Gilgit-Baltistan Region. Upon arrival, we will check in to the hotel and rest. After lunch, we will visit Kargah Nala and the famous Buddha Carving. Later, we will explore the Gilgit Bazaar and taste the local delicacy “Mantu” (Dumplings). We will spend a relaxing night in Gilgit before starting our journey to the “Land of Legends” – Hunza.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 1,500 m</p>
-    </div>
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Riveria Hotel Gilgit (see pictures), MarcoPolo Hotel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Gilgit.
-      </p>
-    </div>
 
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 
 </div>
@@ -570,31 +381,10 @@ const ChilamJoshi = () => {
 </p>
 
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 2,500 m</p>
-    </div>
+ 
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Hilltop Hotel Hunza (see pictures), World Roof Hotel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Hunza.
-      </p>
-    </div>
 
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 
 </div>
@@ -615,31 +405,10 @@ const ChilamJoshi = () => {
       On this day, we will travel to Northern Hunza, where we will enjoy boating on the pristine Atabad Lake. The glacial water and the lake’s vibrant color against the barren mountains will leave you in awe. We will continue traveling further, passing through many villages in Upper Hunza and entering Khunjerab National Park at Deh, experiencing an unforgettable journey on the Karakoram Highway. On our return, we will stay at Passu for the night.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 2,700 m</p>
-    </div>
+
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Sarai Silk Route (see pictures), Passu Ambassador Hotel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Passu.
-      </p>
-    </div>
 
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 
 </div>
@@ -659,31 +428,10 @@ const ChilamJoshi = () => {
       On this day, we will explore Passu Village, starting with a walk around the village, experiencing the local community working in the fields. We will visit a local house to observe the architecture and daily life of the Wakhi Community of Pakistan. We will visit Borith Lake, an alpine lake with stunning colors, and take a walk on the Hussaini Suspension Bridge for a thrilling mountain experience. Later, we will travel to Hopper Valley, known for its beauty, and hike to the Bualtar Glacier. In the evening, we will enjoy dances and music from the people of Hunza.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 4,693 m</p>
-    </div>
+
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Sarai Silk Route (see pictures), Passu Ambassador Hotel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Passu.
-      </p>
-    </div>
-
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
+ 
 </div>
 
 </div>
@@ -703,50 +451,12 @@ const ChilamJoshi = () => {
       On this day, we will travel from Hunza to Besham, another beautiful hill station offering stunning views. We will make short stops along the way to enjoy the scenery.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 2,409 m</p>
-    </div>
+  
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Besham Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation in Besham</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing tent/cottage at Besham Hilton Hotel (see pictures), PTDC Motel (see pictures), or equivalent standard partner hotel (depends on occupancy) in Besham.
-      </p>
-    </div>
-
-    {/* Besham Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals in Besham</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 
   {/* Accommodation and Meals in Naran */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
-    {/* Naran Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation in Naran</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Parhena Cottages (see pictures), Hotel deManchi (see pictures), or equivalent standard partner hotel (depends on occupancy) in Naran.
-      </p>
-    </div>
-
-    {/* Naran Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals in Naran</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
+  
 </div>
 
 </div>
@@ -766,31 +476,10 @@ const ChilamJoshi = () => {
       On this day, we will travel back to Islamabad. Along the way, we will visit the Taxila Museum and explore ancient Buddhist sites from the Gandhara Civilization. After our visit to Taxila, we will continue to Islamabad, which is just a 45-minute drive from Taxila. We will have our farewell dinner at the Monal Restaurant, overlooking the city.
     </p>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 540 m</p>
-    </div>
+ 
   </div>
 
-  {/* Accommodation and Meals */}
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    {/* Accommodation */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Accommodation</h4>
-      <p className="mt-2 text-gray-200">
-        Twin-sharing room at Chateau Royale (see pictures), Prestige Residence (see pictures), or equivalent standard partner hotel (depends on occupancy) in Islamabad.
-      </p>
-    </div>
 
-    {/* Meals */}
-    <div className="bg-green-600 text-white p-4 rounded-lg">
-      <h4 className="font-bold text-lg">Meals</h4>
-      <p className="mt-2 text-gray-200">
-        Breakfast, lunch, and dinner + tea/coffee and snacks.
-      </p>
-    </div>
-  </div>
 </div>
 
 </div>
@@ -811,10 +500,7 @@ const ChilamJoshi = () => {
     </p>
 
     {/* GPS Data */}
-    <div className="mb-4">
-      <h4 className="font-bold text-lg mb-2">GPS Data</h4>
-      <p className="text-gray-700">Altitude: 540 m</p>
-    </div>
+ 
   </div>
 
   {/* Farewell Message */}

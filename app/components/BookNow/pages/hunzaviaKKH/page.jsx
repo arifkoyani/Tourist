@@ -10,7 +10,6 @@ const HunzaViaKKH = () => {
         <div>
         <span className="flex justify-center text-5xl font-bold p-10 bg-[#e6e1ca]">
         <h6 className="text-black px-4 ">
-        Itinerary Code: AT 186
 Duration: 7 Days
 Mode of Transport: Land Travel
         </h6>
@@ -114,7 +113,6 @@ Mode of Transport: Land Travel
   {/* Itinerary Code and Duration */}
   <div className="mb-4">
     <p className="text-lg text-gray-700">
-      <strong>Itinerary Code:</strong> AT 186
     </p>
     <p className="text-lg text-gray-700">
       <strong>Duration:</strong> 7 Days

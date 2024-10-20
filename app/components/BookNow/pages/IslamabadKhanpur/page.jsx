@@ -11,7 +11,7 @@ const IslamabadKhanpur = () => {
         <span className="flex justify-center text-5xl font-bold p-10 bg-[#e6e1ca]">
         <h1 className="text-[#118485] px-4 ">
 
-        Islamabad, Khanpur, Ayubia and Murree (3 Days)
+        Islamabad, Khanspur, Ayubia and Murree (3 Days)
         </h1>
         </span>
           <div className="w-full bg-[#e6e1ca] flex justify-center pt-5 h-screen mx-auto p-1 relative">
@@ -65,7 +65,7 @@ const IslamabadKhanpur = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Find Difference</p>
+                <p className="legend">Find The Difference</p>
               </div>
 
               {/* Image 3 */}
@@ -76,7 +76,7 @@ const IslamabadKhanpur = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Discover Nature</p>
+                <p className="legend">Discover The Nature</p>
               </div>
 
               {/* Image 4 */}
@@ -120,7 +120,7 @@ const IslamabadKhanpur = () => {
         {/* Title */}
         <div className="text-center mb-10">
           <h5 className="text-3xl font-bold text-gray-800">
-          Islamabad, Khanpur, Ayubia and Murree (3 Days)
+          Islamabad, Khanspur, Ayubia and Murree (3 Days)
           </h5>
           <p className="text-gray-600 mt-2">Itinerary Overview</p>
         </div>
@@ -139,7 +139,6 @@ const IslamabadKhanpur = () => {
   {/* Itinerary Code and Duration */}
   <div className="mb-4 text-center">
     <p className="text-lg text-gray-700">
-      <strong>Itinerary Code:</strong> AT 199
     </p>
     <p className="text-lg text-gray-700">
       <strong>Duration:</strong> 3 Days
