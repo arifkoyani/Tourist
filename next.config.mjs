@@ -35,7 +35,8 @@ const nextConfig = {
         "media-cdn.tripadvisor.com",
         "i.ytimg.com",
         "www.wildfrontierstravel.com",
-        "i.natgeofe.com"
+        "i.natgeofe.com",
+        "upload.wikimedia.org"
 
       ],
     },

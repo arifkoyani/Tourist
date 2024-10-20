@@ -1,7 +1,6 @@
 'use client';
 import GlitchButton from "../../../whatsapp/page"
 import Image from 'next/image';
-import lahorePic from '/public/lahore.png'; // Import your image
 
 import pic from "/public/taxila.jpeg"
 const OnedayTour = () => {
@@ -125,11 +124,7 @@ const OnedayTour = () => {
         <h2 className="text-lg font-bold">1 Day Tour to Lahore</h2>
       </div>
 
-      {/* Image Section */}
-      <div className="w-full mt-4">
-        <Image src={lahorePic} alt="Lahore Fort" className="rounded-md" />
-      </div>
-
+    
       {/* Details Section */}
       <div className="bg-gray-100 p-4 mt-4">
         {/* On This Day Section */}
