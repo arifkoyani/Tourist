@@ -36,7 +36,9 @@ const nextConfig = {
         "i.ytimg.com",
         "www.wildfrontierstravel.com",
         "i.natgeofe.com",
-        "upload.wikimedia.org"
+        "upload.wikimedia.org",
+        "cdn.bookatrekking.com"
+        
 
       ],
     },

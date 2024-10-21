@@ -9,7 +9,7 @@ const K2BaseCampTrek = () => {
       {/* Image */}
       <div className="relative w-full h-48 mb-4">
         <Image
-          src="/k2.jpg" // Replace with the actual image path or URL
+          src="https://cdn.bookatrekking.com/data/images/2024/01/k2-bc-1.webp" // Replace with the actual image path or URL
           alt="K2 Base Camp Trek"
           layout="fill"
           objectFit="cover"
