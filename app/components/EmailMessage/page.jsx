@@ -9,6 +9,7 @@ import Swal from "sweetalert2";
 import HeartCircle from "./Me/page";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import { FiPhone} from 'react-icons/fi';
 
 const ContactUS = () => {
   useEffect(() => {
@@ -66,14 +67,21 @@ const ContactUS = () => {
         <div className="md:w-1/2 flex flex-col justify-between pb-8 text-black">
           <span data-aos="fade-up">
             <h1 className="text-4xl font-bold mb-6">CONTACT INFO</h1>
+
+            <div className="flex items-center space-x-4 py-4">
+            <FiPhone />
+            <span className="text-[16px]">+92-514106110</span>
+          </div>
+           
          
-            <div className="flex items-center gap-2 mb-4">
-              <Image src={gmail} width={20} height={20} alt="email icon" />
-              <span>travelatease.tae@gmail.com</span>
-            </div>
             <div className="flex items-center gap-2 mb-4">
               <Image src={whatsapp} width={20} height={20} alt="phone icon" />
               <span>+923350823823</span>
+            </div>
+
+            <div className="flex items-center gap-2 mb-4">
+              <Image src={gmail} width={20} height={20} alt="email icon" />
+              <span>travelatease.tae@gmail.com</span>
             </div>
           </span>
           <HeartCircle />

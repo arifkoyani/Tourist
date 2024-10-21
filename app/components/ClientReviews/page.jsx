@@ -117,7 +117,7 @@ const Reviews = () => {
               </div>
             </div>
 
-            <p className="text-sm text-justify">
+            <p className="text-sm ">
             I thoroughly enjoyed my tour arranged by Travel at Ease. Their genuine concern for our comfort and needs made all the difference. They took exceptional care of every detail, ensuring we had a fantastic experience. Highly recommend their services!
             </p>
 
@@ -211,7 +211,7 @@ const Reviews = () => {
                 USA
               </p>
             </div>
-            <p className="text-sm text-justify">
+            <p className="text-sm " style={{ letterSpacing: '1px' }}>
             ‘Travel at Ease’ truly exceeded our expectations! From the moment we booked, their exceptional service transformed our vacation into an unforgettable adventure
             </p>
 
@@ -318,7 +318,7 @@ const Reviews = () => {
                 Paris
               </p>
             </div>
-            <p className="text-sm text-white text-justify">
+            <p className="text-sm text-white text-left " style={{ wordSpacing: '2px' }}>
             Travel at Ease provided an outstanding tour experience, featuring flawless organization and attentive service. Highly recommend for effortless travel!
             </p>
             {/* Animated Border */}
@@ -371,7 +371,7 @@ const Reviews = () => {
                 Canada
               </p>
             </div>
-            <p className="text-sm text-white text-justify">
+            <p className="text-sm text-white text-left">
             I was truly impressed by the exceptional care and attention provided by Travel at Ease. They went above and beyond to ensure we had an outstanding tour experience.
             </p>
             {/* Animated Border */}

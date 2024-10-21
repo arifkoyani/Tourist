@@ -219,7 +219,7 @@ const ChilamJoshi = () => {
   <div className="mb-6">
   <h4 className="font-bold text-lg mb-2">On this Day</h4>
   <p className="text-gray-700 mb-4">
-  Today we will set off from Swat to Chitral. We will travel through the Lowari Tunnel, which is about 10.4 kms long and connects Dir and Chitral. Before the construction of the tunnel, passengers traveled via Lowari Pass, and the Chitral Region was disconnected from the rest of the country for 6 months. We will reach Ayun, a village close to the Kalasha Tribes, and a beautiful valley to explore. Our stay will be at the Ayun Fort, known for its biological gardens and stunning bird&apos;s-eye view of the valley and river. We will spend the night at Ayun Fort.
+  On this day we will set off from Swat to Chitral. We will travel through the Lowari Tunnel, which is about 10.4 kms long and connects Dir and Chitral. Before the construction of the tunnel, passengers traveled via Lowari Pass, and the Chitral Region was disconnected from the rest of the country for 6 months. We will reach Ayun, a village close to the Kalasha Tribes, and a beautiful valley to explore. Our stay will be at the Ayun Fort, known for its biological gardens and stunning bird&apos;s-eye view of the valley and river. We will spend the night at Ayun Fort.
 </p>
 
 
@@ -244,7 +244,7 @@ const ChilamJoshi = () => {
   <div className="mb-6">
     <h4 className="font-bold text-lg mb-2">On this Day</h4>
     <p className="text-gray-700 mb-4">
-      Today we will go to Rumbur Valley, one of the main villages of the Kalasha Tribe, to experience the Chilam Joshi Festival. This is one of the main festivals of the Kalasha Tribe, celebrated to welcome spring in the region. We will walk to the town center to experience the unique culture of the Kalasha people. For lunch, we will have the opportunity to eat in a local house and enjoy traditional Kalasha cuisine. In the evening, we will drive to Bumburet for an overnight stay.
+    On this day we will go to Rumbur Valley, one of the main villages of the Kalasha Tribe, to experience the Chilam Joshi Festival. This is one of the main festivals of the Kalasha Tribe, celebrated to welcome spring in the region. We will walk to the town center to experience the unique culture of the Kalasha people. For lunch, we will have the opportunity to eat in a local house and enjoy traditional Kalasha cuisine. In the evening, we will drive to Bumburet for an overnight stay.
     </p>
 
   
