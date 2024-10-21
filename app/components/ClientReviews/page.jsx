@@ -35,8 +35,8 @@ const Reviews = () => {
                   className="relative inline-block h-[58px] w-[58px] !rounded-full object-cover object-center"
                 />
                 <div className="flex w-fit flex-col gap-0.5">
-                  <div className="flex items-center justify-between">
-                    <h6 className="block font-sans  leading-snug tracking-normal text-white ">
+                  <div className="flex items-center  justify-between">
+                    <h6 className="block text-sm font-sans  leading-snug tracking-normal text-white ">
                       Alan Simmons
                     </h6>
                     <div className="flex items-center gap-0">
@@ -118,10 +118,9 @@ const Reviews = () => {
             </div>
 
             <p className="text-sm">
-              I was blown away by the level of care and attention
-              Travel at Ease provided. They went above and beyond to ensure we
-              had a fantastic trip
+            I thoroughly enjoyed my tour arranged by Travel at Ease. Their genuine concern for our comfort and needs made all the difference. They took exceptional care of every detail, ensuring we had a fantastic experience. Highly recommend their services!
             </p>
+
 
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
@@ -213,8 +212,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm">
-            Travel at Ease is an exceptional travel company that transformed
-              our vacation into an unforgettable adventure.
+            ‘Travel at Ease’ truly exceeded our expectations! From the moment we booked, their exceptional service transformed our vacation into an unforgettable adventure
             </p>
 
             {/* Animated Border */}
@@ -281,8 +279,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm text-white">
-            Travel at Ease made traveling stress-free and enjoyable. Their
-              professional service and attention to detail are unmatched.
+            I can confidently say it was one of the most stress-free and memorable experiences of my life. From start to finish ‘Travel at Ease’ planned every detail meticulously, allowing me to focus on enjoying my adventure rather than worrying about logistics.
             </p>
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
@@ -322,8 +319,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm text-white">
-              I was blown away by the level of care and attention
-              Travel at Ease provided
+            Travel at Ease provided an outstanding tour experience, featuring flawless organization and attentive service. Highly recommend for effortless travel!
             </p>
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
@@ -376,8 +372,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm text-white">
-            Travel at Ease provided an unforgettable travel experience for
-              me
+            I was truly impressed by the exceptional care and attention provided by Travel at Ease. They went above and beyond to ensure we had an outstanding tour experience.
             </p>
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
@@ -443,8 +438,7 @@ const Reviews = () => {
               </p>
             </div>
             <p className="text-sm text-white">
-            Travel at Ease provided an unforgettable travel experience for
-              me and my family.
+            I had a fantastic experience with Travel at Ease! Their genuine concern for our needs made the tour truly enjoyable. Every detail was thoughtfully arranged, and it was clear they were dedicated to ensuring we had a memorable time. Highly recommend!
             </p>
             {/* Animated Border */}
             <div className="absolute inset-0 border-4 border-[#d78905] opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
