@@ -34,7 +34,7 @@ const K2BaseCampTrek = () => {
 
               <div className="relative w-full h-screen">
                 <Image
-                  src="https://the.ismaili/sites/default/files/styles/carousel_banner/public/image_003.jpg?itok=7lJ_zsmr" // Replace with the correct image path
+                  src="https://traveloguers.com/wp-content/uploads/2024/03/K2-2nd-Highest-Mountain-Pakistan.webp" // Replace with the correct image path
                   // Replace with the correct image path
                   alt="Image 1"
                   layout="fill"
