@@ -39,9 +39,11 @@ const nextConfig = {
         "upload.wikimedia.org",
         "cdn.bookatrekking.com",
         "www.travelgirls.pk",
-        "traveloguers.com"
-        
-
+        "traveloguers.com",
+        "induscaravan.com",
+        "expatstraveltogether.com",
+        "www.reddit.com",
+        "pyaraskardu.com"
       ],
     },
   };

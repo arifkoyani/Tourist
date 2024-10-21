@@ -1,27 +1,30 @@
 "use client";
 import React from "react";
+import whatsapp from "/public/whatspp.png";
+import Image from "next/image";
 
 const ContactComponent = () => {
   return (
     <div className="bg-[#0b698b] text-white py-10">
       <div className="container mx-auto px-6 ">
-        <h1 className="text-3xl font-bold text-center mb-8">Get in Touch Travel at Ease</h1>
+        <h1 className="text-3xl font-bold text-center mb-8">Get in Touch With Travel at Ease</h1>
         <div className="flex flex-col md:flex-row justify-around gap-5 items-start">
           <div className="bg-[#213a71] text-[12px]  flex flex-col p-6 rounded-lg shadow-lg mb-6 md:mb-0 md:w-1/3">
             <h2 className="text-2xl font-semibold mb-4">Resident Office</h2>
             <p className="mb-2">Islamabad, Pakistan</p>
             <p>Email: <a href="mailto:travelatease.tae@gmail.com" className="underline hover:text-yellow-300">travelatease.tae@gmail.com</a></p>
-            <p>Phone: <a href="tel:+925814106110" className="underline hover:text-yellow-300">
-            051-4106110
-              </a></p>
+         
           </div>
 
           {/* Regional Office Section */}
           <div className="bg-[#213a71]   p-6 rounded-lg shadow-lg mb-6 md:mb-0 md:w-1/3">
-            <h2 className="text-2xl font-semibold mb-4">Get in Touch with Travel at Ease</h2>
+            <h2 className="text-2xl font-semibold mb-4">Regional Office</h2>
             <p className="mb-2">Karimabad, Hunza, Pakistan</p>
             <p>Email: <a href="mailto:travelatease.tae@gmail.com" className="underline hover:text-yellow-300">travelatease.tae@gmail.com</a></p>
-            <p>Phone: <a href="tel:+925814106110" className="underline hover:text-yellow-300"> 051-4106110</a></p>
+            <div className="flex items-center gap-5  mt-2  mb-4">
+              <Image src={whatsapp} width={20} height={20} alt="phone icon" />
+              <span>+923350823823</span>
+            </div>
           </div>
 
           {/* Helper Center Section */}

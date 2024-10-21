@@ -6,7 +6,7 @@ const ExplorePakistanCard = () => {
     <div className="relative  mx-auto bg-white rounded-xl shadow-lg overflow-hidden p-4">
       <div className="relative w-full h-64">
         <Image
-          src="/exporepk.jpg" // Replace with the correct image path
+          src="https://pyaraskardu.com/wp-content/uploads/2023/01/KutwalLakeHaramoshValleyGilgitBaltistanPakistan472016.jpg" // Replace with the correct image path
           alt="Explore Pakistan Tours"
        
           objectFit="cover"

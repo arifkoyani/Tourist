@@ -38,6 +38,8 @@ const QuickContact = () => {
           <p className='font-light text-sm'>
             Mobile: <span className="font-light text-sm text-gray-300">+923350823823</span>
           </p>
+
+          
           <p>
             <Link href="mailto:travelpakistan66@gmail.com" className="font-light text-gray-300">travelatease.tae@gmail.com</Link>
           </p>

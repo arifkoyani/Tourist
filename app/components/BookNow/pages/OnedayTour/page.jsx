@@ -44,18 +44,9 @@ const OnedayTour = () => {
     </ul>
 
     {/* Accommodation Section */}
-    <div>
-      <h3 className="text-md font-semibold">Accommodation</h3>
-      <p className="text-sm text-gray-700">No accommodation required for a day trip.</p>
-    </div>
+ 
 
-    {/* Meals Section */}
-    <div className="mt-4">
-      <h3 className="text-md font-semibold">Meals</h3>
-      <p className="text-sm text-gray-700">
-        Breakfast, lunch, and snacks provided during the trip.
-      </p>
-    </div>
+ 
   </div>
 </div>
 
@@ -73,7 +64,7 @@ const OnedayTour = () => {
 
       {/* Image Section */}
       <div className="w-full mt-4">
-        <Image src={pic}
+        <Image src="https://expatstraveltogether.com/wp-content/uploads/2023/09/Taxila_Museum_Entrance-scaled.jpg"
         width={300}
         height={200}
         alt="Taxila Old Museum" className="rounded-md" />
@@ -98,19 +89,7 @@ const OnedayTour = () => {
           <li>Return to Islamabad by evening.</li>
         </ul>
 
-        {/* Accommodation Section */}
-        <div>
-          <h3 className="text-md font-semibold">Accommodation</h3>
-          <p className="text-sm text-gray-700">No accommodation required for a day trip.</p>
-        </div>
-
-        {/* Meals Section */}
-        <div className="mt-4">
-          <h3 className="text-md font-semibold">Meals</h3>
-          <p className="text-sm text-gray-700">
-            Breakfast, lunch, and snacks provided during the trip.
-          </p>
-        </div>
+      
       </div>
     </div>
 
@@ -144,19 +123,8 @@ const OnedayTour = () => {
           <li>Return to Islamabad by evening.</li>
         </ul>
 
-        {/* Accommodation Section */}
-        <div>
-          <h3 className="text-md font-semibold">Accommodation</h3>
-          <p className="text-sm text-gray-700">No accommodation required for a day trip.</p>
-        </div>
 
-        {/* Meals Section */}
-        <div className="mt-4">
-          <h3 className="text-md font-semibold">Meals</h3>
-          <p className="text-sm text-gray-700">
-            Breakfast, lunch, and snacks provided during the trip.
-          </p>
-        </div>
+  
       </div>
 
 <GlitchButton/>

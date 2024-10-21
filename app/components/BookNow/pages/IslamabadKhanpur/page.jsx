@@ -32,7 +32,7 @@ const IslamabadKhanpur = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Meet New World</p>
+                <p className="legend">Meet The World</p>
               </div>
 
               <div className="relative w-full h-screen">
@@ -43,7 +43,7 @@ const IslamabadKhanpur = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Meet New World</p>
+              <p className="legend">Meet The World</p>
               </div>
               {/* Image 1 */}
               <div className="relative w-full h-screen">
@@ -54,7 +54,7 @@ const IslamabadKhanpur = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Meet New World</p>
+                <p className="legend">Meet The World</p>
               </div>
 
               {/* Image 2 */}

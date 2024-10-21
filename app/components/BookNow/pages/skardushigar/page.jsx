@@ -10,7 +10,7 @@ const Skardushigar = () => {
   </div>
 
   {/* Main Heading */}
-  <h3 className="text-3xl md:text-4xl font-extrabold text-center text-gray-900 mb-4">
+  <h3 className="text-xl md:text-xl font-extrabold text-center text-gray-900 mb-4">
   Skardu, Shigar, Ghanche and Kharmang (6 Days)
   </h3>
 

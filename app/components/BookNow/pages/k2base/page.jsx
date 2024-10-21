@@ -29,7 +29,7 @@ const K2BaseCampTrek = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Meet New World</p>
+                <p className="legend">Meet The World</p>
               </div>
 
               <div className="relative w-full h-screen">
@@ -40,7 +40,7 @@ const K2BaseCampTrek = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Meet New World</p>
+                <p className="legend">Meet The World</p>
               </div>
               {/* Image 1 */}
               <div className="relative w-full h-screen">
@@ -51,7 +51,7 @@ const K2BaseCampTrek = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Meet New World</p>
+                <p className="legend">Meet The World</p>
               </div>
 
               {/* Image 2 */}
@@ -62,7 +62,7 @@ const K2BaseCampTrek = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Find Difference</p>
+                <p className="legend">Find The Difference</p>
               </div>
 
               {/* Image 3 */}
@@ -73,7 +73,7 @@ const K2BaseCampTrek = () => {
                   layout="fill"
                   objectFit="cover"
                 />
-                <p className="legend">Discover Nature</p>
+                <p className="legend">Discover The Nature</p>
               </div>
 
               {/* Image 4 */}
@@ -105,10 +105,10 @@ const K2BaseCampTrek = () => {
       <div className="bg-[#e6e1ca] text-[12px] py-10 px-4 sm:px-6 lg:px-8">
         {/* Title */}
         <div className="text-center mb-10">
-          <h1 className="text-3xl font-bold text-gray-800">
+          <h1 className="text-xl font-bold text-gray-800">
             K2 Base Camp Trek - 2024
           </h1>
-          <p className="text-gray-600 mt-2">Itinerary Overview</p>
+          <p className="text-gray-600 mt-2"> Overview</p>
         </div>
 
         {/* Itinerary */}

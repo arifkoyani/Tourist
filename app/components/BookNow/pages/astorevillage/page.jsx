@@ -6,7 +6,7 @@ const astoreVillage = () => {
       {/* Title */}
       <div className="bg-slate-100 p-5">
         <div className="text-center mb-10">
-          <h1 className="text-3xl font-bold text-gray-800">
+          <h1 className="text-xl font-bold text-gray-800">
             Astore Valley & Fairy Meadows (5 Days)
           </h1>
           <p className="text-gray-600">Duration: 10 Days</p>

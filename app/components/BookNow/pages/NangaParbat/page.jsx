@@ -12,7 +12,7 @@ const NangaParbat = () => {
   </div>
 
   {/* Main Heading */}
-  <h3 className="text-3xl md:text-4xl font-extrabold text-center text-gray-900 mb-4">
+  <h3 className="text-[5px] md:text-4xl font-extrabold text-center text-gray-900 mb-4">
     Nanga Parbat Base Camp and Hunza Valley (2024-25) – 13 Days
   </h3>
 
@@ -38,11 +38,6 @@ const NangaParbat = () => {
       <p className="text-sm text-gray-700">Meals: Breakfast, lunch, and dinner</p>
     </div>
 
-    {/* GPS Data Section */}
-    <div className="mb-4">
-      <h3 className="text-md font-semibold text-gray-800">GPS Data</h3>
-      <p className="text-sm text-gray-700">Altitude: 540 m</p>
-    </div>
 
     {/* Description */}
     <p className="text-sm text-gray-700 mb-4">
@@ -50,27 +45,6 @@ const NangaParbat = () => {
     </p>
 
     {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Twin-sharing room at Chateau Royale <span className="text-blue-500">(see pictures)</span>, Prestige Residence <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Islamabad.
-        </p>
-      </div>
-
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch, and dinner + tea/coffee and snacks.
-        </p>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -99,27 +73,7 @@ const NangaParbat = () => {
     </p>
 
     {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Twin-sharing room at Shangrila Raikot <span className="text-blue-500">(see pictures)</span>, Shangrila Chilas <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Chilas.
-        </p>
-      </div>
-
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch and dinner + tea/coffee and snacks.
-        </p>
-      </div>
-    </div>
+  
   </div>
 </div>
 
@@ -144,29 +98,6 @@ const NangaParbat = () => {
     <p className="text-sm text-gray-700 mb-4">
       After having breakfast at the hotel, we will start our journey towards Fairy Meadows. The participants will transfer to Tatu village on 4×4 Jeeps. The participants will have to hike for 2-3 hours to reach Fairy Meadows. Upon reaching the camp, participants can rest, roam around, take short hikes, or interact with the locals.
     </p>
-
-    {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Twin-sharing tent/cottage at Raikot Sarai <span className="text-blue-500">(see pictures)</span>, Greenland Hotel (see pictures) or equivalent standard partner hotel (depends on occupancy) in Fairy Meadows.
-        </p>
-      </div>
-
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch and dinner + tea/coffee and snacks.
-        </p>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -195,28 +126,7 @@ const NangaParbat = () => {
       Participants will reach Nanga Parbat Base Camp within a few hours where the silence is only interrupted by the sound of the occasional avalanches, which can also be heard from very far away. We will trek back to Fairy Meadows after spending quality time at the base camp under the Himalayan Beast (8,126m). Nanga Parbat Base camp trek might be the best holiday you have ever enjoyed.
     </p>
 
-    {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Camping in twin-sharing dome tent <span className="text-blue-500">(see pictures)</span>.
-        </p>
-      </div>
-
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch and dinner + snacks (dry fruit/chocolate) for trek, appetizer (soup/fried-snacks) before dinner and dessert/fruits after dinner.
-        </p>
-      </div>
-    </div>
+    
   </div>
 </div>
 
@@ -243,27 +153,7 @@ const NangaParbat = () => {
     </p>
 
     {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Twin-sharing tent/cottage at Raikot Sarai <span className="text-blue-500">(see pictures)</span>, Greenland Hotel Hotel <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Fairy Meadows.
-        </p>
-      </div>
-
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch and dinner + tea/coffee and snacks.
-        </p>
-      </div>
-    </div>
+  
   </div>
 </div>
 
@@ -288,29 +178,6 @@ const NangaParbat = () => {
     <p className="text-sm text-gray-700 mb-4">
       After spending time in the Diamer district of the Himalayas, we will move towards the beautiful valley of Hunza in the Karakoram range. First, we will follow the Indus on the Karakoram highway until we are met by the Hunza River. Hunza valley is unique in terms of natural environment, culture, and food. Crossing a few bridges and passing through small villages of the Brusho and Shinaki people, we will reach the capital of Hunza, Karimabad, where we will spend the night.
     </p>
-
-    {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Twin-sharing room at Hilltop Hotel Hunza <span className="text-blue-500">(see pictures)</span>, World Roof Hotel <span className="text-blue-500">(see pictures)</span>, or equivalent standard partner hotel (depends on occupancy) in Hunza.
-        </p>
-      </div>
-
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch and dinner + tea/coffee and snacks.
-        </p>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -337,27 +204,7 @@ const NangaParbat = () => {
     </p>
 
     {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Twin-sharing room at Hilltop Hotel Hunza <span className="text-blue-500">(see pictures)</span>, World Roof Hotel <span className="text-blue-500">(see pictures)</span>, or equivalent standard partner hotel (depends on occupancy) in Hunza.
-        </p>
-      </div>
-
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch, and dinner + tea/coffee and snacks.
-        </p>
-      </div>
-    </div>
+  
   </div>
 </div>
 
@@ -383,32 +230,12 @@ const NangaParbat = () => {
 </p>
 
 
-    <p className="text-sm text-gray-700 mb-4">
+    <p className="text-[10px] text-gray-700 mb-4">
       Khunjerab National Park is a wildlife habitat for ibex, snow leopards, marmots, etc. Guests may even get the chance to meet Chinese soldiers, border police, or tourists from the other side. Participants will enjoy a packed/picnic lunch at the Pak-China Border (4733m). Guests will have shopping time on the return in Sost (Immigration/Customs point) for Chinese goods (electronics, watches, etc.). We will return to Passu Village for the night.
     </p>
 
     {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Twin-sharing room at Sarai Silk Route <span className="text-blue-500">(see pictures)</span>, Passu Ambassador Hotel <span className="text-blue-500">(see pictures)</span>, or equivalent standard partner hotel (depends on occupancy) in Passu.
-        </p>
-      </div>
-
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch, and dinner + tea/coffee and snacks.
-        </p>
-      </div>
-    </div>
+    
   </div>
 </div>
 
@@ -434,27 +261,34 @@ const NangaParbat = () => {
     </p>
 
     {/* Table Section */}
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-      {/* Accommodation Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Accommodation</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Twin-sharing room at Sarai Silk Route <span className="text-blue-500">(see pictures)</span>, Passu Ambassador Hotel <span className="text-blue-500">(see pictures)</span>, or equivalent standard partner hotel (depends on occupancy) in Passu.
-        </p>
-      </div>
+  
+  </div>
+</div>
 
-      {/* Meals Section */}
-      <div className="bg-green-500 text-white p-4 rounded-md">
-        <h4 className="font-bold">Meals</h4>
-      </div>
-      <div className="bg-gray-200 p-4 rounded-md">
-        <p className="text-sm text-gray-700">
-          Breakfast, lunch, and dinner + tea/coffee and snacks.
-        </p>
-      </div>
+
+
+<div className="bg-gray-50 p-6 rounded-lg shadow-md w-full">
+  {/* Day Heading */}
+  <div className="bg-orange-500 text-white px-4 py-2 rounded-t-md">
+    <h2 className="text-lg font-bold">Day 10: Drive to Besham</h2>
+  </div>
+
+  {/* Details Section */}
+  <div className="bg-gray-100 p-4">
+    {/* On This Day Section */}
+    <div className="mb-4">
+      <h3 className="text-md font-semibold text-gray-800">On this Day</h3>
+      <p className="text-sm text-gray-700">Accommodation: Standard hotel</p>
+      <p className="text-sm text-gray-700">Meals included: Breakfast, lunch and dinner</p>
     </div>
+
+    {/* Description */}
+    <p className="text-sm text-gray-700 mb-4">
+      The guests will depart back to Besham or Naran (depending on weather and other variables). If we take the road to Besham, we drive through Chilas and Dassu traveling along Indus river on Karakoram Highway. However, we will try to return to Islamabad via Naran road, giving our guests the opportunity to explore additional locations.
+    </p>
+
+  
+
   </div>
 </div>
 
@@ -483,129 +317,13 @@ const NangaParbat = () => {
     {/* Naran Section */}
     <div className="mb-4">
       <h3 className="text-md font-semibold text-gray-800">Naran</h3>
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        {/* Accommodation */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Accommodation</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Twin-sharing room at Parhena Cottages <span className="text-blue-500">(see pictures)</span>, Hotel deManchi <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Naran.
-          </p>
-        </div>
-
-        {/* Meals */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Meals</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Breakfast, lunch and dinner + tea/coffee and snacks.
-          </p>
-        </div>
-      </div>
+      
     </div>
 
     {/* Besham Section */}
     <div>
       <h3 className="text-md font-semibold text-gray-800">Besham</h3>
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        {/* Accommodation */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Accommodation</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Twin-sharing tent/cottage at Besham Hilton Hotel <span className="text-blue-500">(see pictures)</span>, PTDC Motel <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Besham.
-          </p>
-        </div>
-
-        {/* Meals */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Meals</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Breakfast, lunch and dinner + tea/coffee and snacks.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-<div className="bg-gray-50 p-6 rounded-lg shadow-md w-full">
-  {/* Day Heading */}
-  <div className="bg-orange-500 text-white px-4 py-2 rounded-t-md">
-    <h2 className="text-lg font-bold">Day 10: Drive to Besham</h2>
-  </div>
-
-  {/* Details Section */}
-  <div className="bg-gray-100 p-4">
-    {/* On This Day Section */}
-    <div className="mb-4">
-      <h3 className="text-md font-semibold text-gray-800">On this Day</h3>
-      <p className="text-sm text-gray-700">Accommodation: Standard hotel</p>
-      <p className="text-sm text-gray-700">Meals included: Breakfast, lunch and dinner</p>
-    </div>
-
-    {/* Description */}
-    <p className="text-sm text-gray-700 mb-4">
-      The guests will depart back to Besham or Naran (depending on weather and other variables). If we take the road to Besham, we drive through Chilas and Dassu traveling along Indus river on Karakoram Highway. However, we will try to return to Islamabad via Naran road, giving our guests the opportunity to explore additional locations.
-    </p>
-
-    {/* Naran Section */}
-    <div className="mb-4">
-      <h3 className="text-md font-semibold text-gray-800">Naran</h3>
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        {/* Accommodation */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Accommodation</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Twin-sharing room at Parhena Cottages <span className="text-blue-500">(see pictures)</span>, Hotel deManchi <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Naran.
-          </p>
-        </div>
-
-        {/* Meals */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Meals</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Breakfast, lunch and dinner + tea/coffee and snacks.
-          </p>
-        </div>
-      </div>
-    </div>
-
-    {/* Besham Section */}
-    <div>
-      <h3 className="text-md font-semibold text-gray-800">Besham</h3>
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        {/* Accommodation */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Accommodation</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Twin-sharing tent/cottage at Besham Hilton Hotel <span className="text-blue-500">(see pictures)</span>, PTDC Motel <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Besham.
-          </p>
-        </div>
-
-        {/* Meals */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Meals</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Breakfast, lunch and dinner + tea/coffee and snacks.
-          </p>
-        </div>
-      </div>
+   
     </div>
   </div>
 </div>
@@ -627,42 +345,13 @@ const NangaParbat = () => {
       <p className="text-sm text-gray-700">Meals included: Breakfast, lunch and dinner</p>
     </div>
 
-    {/* GPS Data */}
-    <div className="mb-4">
-      <h3 className="text-md font-semibold text-gray-800">GPS Data</h3>
-      <p className="text-sm text-gray-700">Altitude: 538 m</p>
-    </div>
 
     {/* Description */}
     <p className="text-sm text-gray-700 mb-4">
       The journey to Islamabad will be continued either from Besham or Naran. Participants will drive through more towns, cities, and villages of Pakistan. Our domestic participants will bid farewell and be dropped in Islamabad (F-11 Markaz) on this day.
     </p>
 
-    {/* Accommodation Section */}
-    <div className="mb-4">
-      <h3 className="text-md font-semibold text-gray-800">Accommodation</h3>
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        {/* Accommodation */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Accommodation</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Twin-sharing room at Chateau Royale <span className="text-blue-500">(see pictures)</span>, Prestige Residence <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Islamabad.
-          </p>
-        </div>
-
-        {/* Meals */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Meals</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Breakfast, lunch and dinner + tea/coffee and snacks.
-          </p>
-        </div>
-      </div>
-    </div>
+ 
   </div>
 </div>
 
@@ -687,31 +376,6 @@ const NangaParbat = () => {
       On this day twin cities of Rawalpindi and Islamabad will be explored, both of which are distinct. Islamabad is a modern capital city, great for sightseeing while Rawalpindi is a historic city built in British era with intricate bazaars and bustling streets.
     </p>
 
-    {/* Accommodation Section */}
-    <div className="mb-4">
-      <h3 className="text-md font-semibold text-gray-800">Accommodation</h3>
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        {/* Accommodation */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Accommodation</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Twin-sharing room at Chateau Royale <span className="text-blue-500">(see pictures)</span>, Prestige Residence <span className="text-blue-500">(see pictures)</span> or equivalent standard partner hotel (depends on occupancy) in Islamabad.
-          </p>
-        </div>
-
-        {/* Meals */}
-        <div className="bg-green-500 text-white p-4 rounded-md">
-          <h4 className="font-bold">Meals</h4>
-        </div>
-        <div className="bg-gray-200 p-4 rounded-md">
-          <p className="text-sm text-gray-700">
-            Breakfast, lunch and dinner + tea/coffee and snacks.
-          </p>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 
