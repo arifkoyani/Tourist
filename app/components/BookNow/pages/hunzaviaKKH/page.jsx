@@ -9,10 +9,6 @@ const HunzaViaKKH = () => {
       <div>
         <div>
         <span className="flex justify-center text-5xl font-bold p-10 bg-[#e6e1ca]">
-        <h6 className="text-black px-4 ">
-Duration: 7 Days
-Mode of Transport: Land Travel
-        </h6>
         </span>
           <div className="w-full bg-[#e6e1ca] flex justify-center pt-5 h-screen mx-auto p-1 relative">
             <Carousel

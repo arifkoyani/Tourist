@@ -155,7 +155,7 @@ const IslamabadKhanpur = () => {
       Departure from Islamabad (early morning)<br />
       Visit Taxila Museum<br />
       Departure for Khanpur Dam<br />
-      Boating or cliff Diving at Khanpur Dam<br />
+      Boating or cliff Diving at Khanspur<br />
       Return to Islamabad<br />
       Visit to Faisal Mosque and Pir Sohawa (Monal)<br />
       Night Stay in Islamabad

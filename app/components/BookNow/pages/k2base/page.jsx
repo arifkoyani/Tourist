@@ -121,12 +121,13 @@ const K2BaseCampTrek = () => {
 
             <h3 className="text-md font-semibold mt-4">Pickup Information</h3>
             <p className="text-gray-700">
-              Our guide will hold orange placards with the company logo and your
-              name. Ensure to give us your flight details at least five days
-              before arrival. Our staff will meet you at the gates of
-              international arrivals unless you're taking a connecting flight
-              within Pakistan.
-            </p>
+  Our guide will hold orange placards with the company logo and your
+  name. Ensure to give us your flight details at least five days
+  before arrival. Our staff will meet you at the gates of
+  international arrivals unless you&apos;re taking a connecting flight
+  within Pakistan.
+</p>
+
 
             <p className="text-gray-700 mt-2">
               After lunch and some rest, participants arriving in the morning
@@ -502,10 +503,11 @@ const K2BaseCampTrek = () => {
             <p className="text-sm text-gray-600 mt-2">Altitude: 538 m</p>
 
             <p className="text-gray-700 mt-2">
-              On this day, the participants will take a flight from Skardu
-              airport to Islamabad airport. After arrival, you'll have ample
-              time to relax at the hotel in Islamabad.
-            </p>
+  On this day, the participants will take a flight from Skardu
+  airport to Islamabad airport. After arrival, you&apos;ll have ample
+  time to relax at the hotel in Islamabad.
+</p>
+
 
             <p className="text-gray-700 mt-2">
               Domestic flights can sometimes be canceled due to weather
