@@ -101,7 +101,7 @@ const ContactUS = () => {
               className="w-full p-3 mb-4 text-black rounded-lg outline-none focus:ring-2 focus:ring-[#d78905]"
             />
             <label htmlFor="message" className="mb-2">
-              Your Message Here
+              Message Here
             </label>
             <textarea
               id="message"
