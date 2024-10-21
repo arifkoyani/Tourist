@@ -37,7 +37,8 @@ const nextConfig = {
         "www.wildfrontierstravel.com",
         "i.natgeofe.com",
         "upload.wikimedia.org",
-        "cdn.bookatrekking.com"
+        "cdn.bookatrekking.com",
+        "www.travelgirls.pk"
         
 
       ],

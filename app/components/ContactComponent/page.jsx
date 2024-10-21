@@ -18,7 +18,7 @@ const ContactComponent = () => {
 
           {/* Regional Office Section */}
           <div className="bg-[#213a71]   p-6 rounded-lg shadow-lg mb-6 md:mb-0 md:w-1/3">
-            <h2 className="text-2xl font-semibold mb-4">Regional Office With</h2>
+            <h2 className="text-2xl font-semibold mb-4">Get in Touch with Travel at Ease</h2>
             <p className="mb-2">Karimabad, Hunza, Pakistan</p>
             <p>Email: <a href="mailto:travelatease.tae@gmail.com" className="underline hover:text-yellow-300">travelatease.tae@gmail.com</a></p>
             <p>Phone: <a href="tel:+925814106110" className="underline hover:text-yellow-300"> 051-4106110</a></p>
