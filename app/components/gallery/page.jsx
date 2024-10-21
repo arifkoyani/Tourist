@@ -193,15 +193,7 @@ const Gallery = () => {
             />
           </div>
 
-        <div>
-            <Image
-              className="h-auto max-w-full rounded-lg"
-              src="https://scontent.fisb29-1.fna.fbcdn.net/v/t39.30808-6/395481349_824661969669634_30009979676651307_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFrmOqkVPe6oJTEf9BdrR-LDvyQNh8zFuIO_JA2HzMW4iMaeEnI7FSmvqH7rCR2nmi9cNg7UZ-bUW_hNiC1WdV8&_nc_ohc=CTgP8hZwxe4Q7kNvgGlBsde&_nc_ht=scontent.fisb29-1.fna&_nc_gid=Awiv2ejfN9YXcWIAWSXtSFz&oh=00_AYA39i8v_qNFbOB4PjlcKNS3QXKZkkBpNWSddVoPglxaAQ&oe=67031F99"
-              alt="Temple Image 1"
-              width={400}
-              height={300}
-            />
-          </div>
+  
 
           <div>
             <Image
