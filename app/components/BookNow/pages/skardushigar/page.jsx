@@ -11,16 +11,19 @@ const Skardushigar = () => {
 
   {/* Main Heading */}
   <h3 className="text-xl md:text-xl font-extrabold text-center text-gray-900 mb-4">
-  Skardu, Shigar, Ghanche and Kharmang (6 Days)
+  (6 Days)<br/>
+  Skardu, Shigar, Ghanche and Kharmang
   </h3>
 
   {/* Description */}
   <p className="text-lg text-gray-700 text-center mb-2">
-    <strong>Duration:</strong> 6 Days
+    <strong>Duration:</strong> 6 Days 
   </p>
+
   <p className="text-lg text-gray-700 text-center">
-    <strong>Mode of Transport:</strong> Air Travel (Flight)
+    <strong>   <br/>Mode of Transport:</strong> 
   </p>
+  Air Travel (Flight)
 </div>
 
 

@@ -19,7 +19,7 @@ const OneDayTour = () => {
 
       {/* Title */}
       <h2 className="text-xl font-bold text-gray-800">
-  Murree Taxila Old Mussem Lahore (1 day Tours)
+  Murree Taxila Heritage Museum Lahore (Day Tours)
 </h2>
 
 

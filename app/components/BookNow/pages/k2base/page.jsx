@@ -23,8 +23,7 @@ const K2BaseCampTrek = () => {
             >
               <div className="relative w-full h-screen">
                 <Image
-                  src="https://www.apricottours.pk/wp-content/uploads/2017/03/Nagar-Hopar-glacier-1.jpg" // Replace with the correct image path
-                  // Replace with the correct image path
+                  src="https://www.apricottours.pk/wp-content/uploads/2017/03/Nagar-Hopar-glacier-1.jpg"
                   alt="Image 1"
                   layout="fill"
                   objectFit="cover"
@@ -34,19 +33,7 @@ const K2BaseCampTrek = () => {
 
               <div className="relative w-full h-screen">
                 <Image
-                  src="https://traveloguers.com/wp-content/uploads/2024/03/K2-2nd-Highest-Mountain-Pakistan.webp" // Replace with the correct image path
-                  // Replace with the correct image path
-                  alt="Image 1"
-                  layout="fill"
-                  objectFit="cover"
-                />
-                <p className="legend">Meet The World</p>
-              </div>
-              {/* Image 1 */}
-              <div className="relative w-full h-screen">
-                <Image
-                  src="https://www.apricottours.pk/wp-content/uploads/2017/03/skardu-shangrila-resort-skardu-12.jpg" // Replace with the correct image path
-                  // Replace with the correct image path
+                  src="https://traveloguers.com/wp-content/uploads/2024/03/K2-2nd-Highest-Mountain-Pakistan.webp"
                   alt="Image 1"
                   layout="fill"
                   objectFit="cover"
@@ -54,10 +41,19 @@ const K2BaseCampTrek = () => {
                 <p className="legend">Meet The World</p>
               </div>
 
-              {/* Image 2 */}
               <div className="relative w-full h-screen">
                 <Image
-                  src="https://www.apricottours.pk/wp-content/uploads/2017/03/Deosai-Plain-plateau-baltistan-karakoram-west-4.jpg" // Replace with the correct image path
+                  src="https://www.apricottours.pk/wp-content/uploads/2017/03/skardu-shangrila-resort-skardu-12.jpg"
+                  alt="Image 1"
+                  layout="fill"
+                  objectFit="cover"
+                />
+                <p className="legend">Meet The World</p>
+              </div>
+
+              <div className="relative w-full h-screen">
+                <Image
+                  src="https://www.apricottours.pk/wp-content/uploads/2017/03/Deosai-Plain-plateau-baltistan-karakoram-west-4.jpg"
                   alt="Image 2"
                   layout="fill"
                   objectFit="cover"
@@ -65,10 +61,9 @@ const K2BaseCampTrek = () => {
                 <p className="legend">Find The Difference</p>
               </div>
 
-              {/* Image 3 */}
               <div className="relative w-full h-screen">
                 <Image
-                  src="https://www.apricottours.pk/wp-content/uploads/2017/03/skardu-buddha-rock.jpg" // Replace with the correct image path
+                  src="https://www.apricottours.pk/wp-content/uploads/2017/03/skardu-buddha-rock.jpg"
                   alt="Image 3"
                   layout="fill"
                   objectFit="cover"
@@ -76,7 +71,6 @@ const K2BaseCampTrek = () => {
                 <p className="legend">Discover The Nature</p>
               </div>
 
-              {/* Image 4 */}
               <div className="relative w-full h-screen">
                 <Image
                   src="/islamabd.jpg"
@@ -98,26 +92,22 @@ const K2BaseCampTrek = () => {
               </div>
             </Carousel>
           </div>
-
         </div>
       </div>
 
       <div className="bg-[#e6e1ca] text-[12px] py-10 px-4 sm:px-6 lg:px-8">
-        {/* Title */}
         <div className="text-center mb-10">
           <h1 className="text-xl font-bold text-gray-800">
-            K2 Base Camp Trek - 2024
+          K2 Base Camp Trek (2024-25) – 21 days
           </h1>
           <p className="text-gray-600 mt-2"> Overview</p>
         </div>
 
-        {/* Itinerary */}
         <div className="space-y-8 max-w-4xl mx-auto">
-          {/* Day 1 */}
           <div className="bg-white shadow-md rounded-lg p-6">
-          <h2 className="text-xl font-semibold text-gray-800">
-  Day 01: Arrive at Islamabad International Airport, Islamabad
-</h2>
+            <h2 className="text-xl font-semibold text-gray-800">
+              Day 01: Arrive at Islamabad International Airport, Islamabad
+            </h2>
 
             <p className="text-sm text-gray-600 mt-2">Altitude: 540 m</p>
 
@@ -131,13 +121,12 @@ const K2BaseCampTrek = () => {
 
             <h3 className="text-md font-semibold mt-4">Pickup Information</h3>
             <p className="text-gray-700">
-  Our guide will hold orange placards with the company logo and your
-  name. Ensure to give us your flight details at least five days
-  before arrival. Our staff will meet you at the gates of
-  international arrivals unless you&apos;re taking a connecting flight
-  within Pakistan.
-</p>
-
+              Our guide will hold orange placards with the company logo and your
+              name. Ensure to give us your flight details at least five days
+              before arrival. Our staff will meet you at the gates of
+              international arrivals unless you're taking a connecting flight
+              within Pakistan.
+            </p>
 
             <p className="text-gray-700 mt-2">
               After lunch and some rest, participants arriving in the morning
@@ -147,7 +136,6 @@ const K2BaseCampTrek = () => {
             </p>
           </div>
 
-          {/* Day 2 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 02: Fly to Skardu, Karakoram
@@ -163,20 +151,8 @@ const K2BaseCampTrek = () => {
                 After arrival, the day is free for you to explore or relax.
               </li>
             </ul>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">
-              Twin-sharing room at Concordia Motel, Mountain Lodge, or a similar
-              standard hotel (depending on occupancy) in Skardu.
-            </p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + tea/coffee and snacks.
-            </p>
           </div>
 
-          {/* Day 3 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 03: Spend free day in Skardu
@@ -200,22 +176,8 @@ const K2BaseCampTrek = () => {
               days, but contingency days are planned towards the end of the trek
               to accommodate any delays.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">
-              Twin-sharing room at Concordia Motel, Mountain Lodge, or a similar
-              standard hotel (depending on occupancy) in Skardu.
-            </p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + tea/coffee and snacks.
-            </p>
           </div>
 
-          {/* More Days can be added similarly */}
-
-          {/* Day 4 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 04: Drive to Askole village
@@ -237,19 +199,8 @@ const K2BaseCampTrek = () => {
                 six to eight hours.
               </li>
             </ul>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for trek,
-              appetizer (soup/fried-snacks) before dinner, and dessert/fruits
-              after dinner.
-            </p>
           </div>
 
-          {/* Day 5 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 05: Trek from Askole to Jhola via the snout of Biafo Glacier
@@ -275,19 +226,8 @@ const K2BaseCampTrek = () => {
               the edge of the Braldu River and follow the riverbank to reach the
               camp at Jhola.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for trek,
-              appetizer (soup/fried-snacks) before dinner, and dessert/fruits
-              after dinner.
-            </p>
           </div>
 
-          {/* Day 6 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 06: Trek from Jhola to Paiju following the Braldu River
@@ -313,19 +253,8 @@ const K2BaseCampTrek = () => {
               river to reach the camp at Paiju, which is the last camp with
               trees for a while.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for the
-              trek, appetizer (soup/fried-snacks) before dinner, and
-              dessert/fruits after dinner.
-            </p>
           </div>
 
-          {/* Day 7 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 07: Acclimatize and Rest in Paiju
@@ -339,19 +268,8 @@ const K2BaseCampTrek = () => {
               may also take an acclimatization walk towards Paiju Peak base camp
               if they feel ready.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for the
-              trek, appetizer (soup/fried-snacks) before dinner, and
-              dessert/fruits after dinner.
-            </p>
           </div>
 
-          {/* Day 8 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 08: Trek from Paiju to Khoburtse
@@ -378,19 +296,8 @@ const K2BaseCampTrek = () => {
                 edge of the Baltoro Glacier to reach Khoburtse.
               </li>
             </ul>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for the
-              trek, appetizer (soup/fried-snacks) before dinner, and
-              dessert/fruits after dinner.
-            </p>
           </div>
 
-          {/* Day 9 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 09: Cross small glaciers and walk to Urdukus
@@ -406,18 +313,8 @@ const K2BaseCampTrek = () => {
               for the night will be set near the army camp, approximately 100m
               above the glacier.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for the
-              trek, appetizer (soup/fried-snacks) before dinner, and
-              dessert/fruits after dinner.
-            </p>
           </div>
-          {/* Day 10 */}
+
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 10: Trek to Goro II, the junction of the Baltoro glaciers and
@@ -441,19 +338,8 @@ const K2BaseCampTrek = () => {
               temperature can drop significantly during the night. Masherbrum
               and Muztagh Tower will be revealed for a breathtaking view.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for the
-              trek, appetizer (soup/fried-snacks) before dinner, and
-              dessert/fruits after dinner.
-            </p>
           </div>
 
-          {/* Day 11 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 11: Trek to Concordia through a rocky moraine
@@ -470,19 +356,8 @@ const K2BaseCampTrek = () => {
               towering peaks such as Broad Peak, Mitre Peak, Gasherbrum, and Sia
               Kangri will also be visible.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for the
-              trek, appetizer (soup/fried-snacks) before dinner, and
-              dessert/fruits after dinner.
-            </p>
           </div>
 
-          {/* Day 12 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 12: Trek to Broad Peak BC, Gilkey Memorial and K2 Base Camp
@@ -519,19 +394,8 @@ const K2BaseCampTrek = () => {
               plates attached to a rocky outcrop at the foot of K2. We will have
               lunch here before retracing our steps back to Concordia.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for trek,
-              appetizer (soup/fried-snacks) before dinner, and dessert/fruits
-              after dinner.
-            </p>
           </div>
 
-          {/* Day 13 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 13: Trek to Goro I/Biango
@@ -545,19 +409,8 @@ const K2BaseCampTrek = () => {
               the current camp and head back towards Goro I. The trek on this
               day will be relatively easier as it will involve descending.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for trek,
-              appetizer (soup/fried-snacks) before dinner, and dessert/fruits
-              after dinner.
-            </p>
           </div>
 
-          {/* Day 14 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 14: Trek to Khoburtse with views of Trango Towers
@@ -573,19 +426,8 @@ const K2BaseCampTrek = () => {
               Although the route is the same, the experience will offer
               different perspectives and sights compared to the trek up.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for trek,
-              appetizer (soup/fried-snacks) before dinner, and dessert/fruits
-              after dinner.
-            </p>
           </div>
 
-          {/* Day 15 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 15: Trek back to camp Paiju
@@ -602,19 +444,8 @@ const K2BaseCampTrek = () => {
               the comfort of walking amongst trees and enjoy their stay at the
               Paiju campsite.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for trek,
-              appetizer (soup/fried-snacks) before dinner, and dessert/fruits
-              after dinner.
-            </p>
           </div>
 
-          {/* Day 16 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 16: Trek to Jhola campsite
@@ -629,19 +460,8 @@ const K2BaseCampTrek = () => {
               crossings may be required along the way, but the day’s trek will
               end with camp set up at Jhola.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">Camping in twin-sharing dome tents.</p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, dinner + snacks (dry fruit/chocolate) for trek,
-              appetizer (soup/fried-snacks) before dinner, and dessert/fruits
-              after dinner.
-            </p>
           </div>
 
-          {/* Day 17 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 17: Trek to Askole and drive to Skardu town
@@ -659,21 +479,8 @@ const K2BaseCampTrek = () => {
               following the river to the bridge. After lunch, they will get a
               chance to rest their feet and be transferred by jeep to Skardu.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">
-              Twin-sharing room at Concordia Motel, Mountain Lodge, or
-              equivalent standard partner hotel in Skardu (depending on
-              occupancy).
-            </p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, and dinner + tea/coffee and snacks.
-            </p>
           </div>
 
-          {/* Day 18 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 18: Contingency days for trek delays
@@ -686,21 +493,8 @@ const K2BaseCampTrek = () => {
               or weather conditions. Guests can use this time for sightseeing in
               Skardu.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">
-              Twin-sharing room at Concordia Motel, Mountain Lodge, or
-              equivalent standard partner hotel in Skardu (depending on
-              occupancy).
-            </p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, and dinner + tea/coffee and snacks.
-            </p>
           </div>
 
-          {/* Day 19 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 19: Fly to Islamabad
@@ -708,32 +502,18 @@ const K2BaseCampTrek = () => {
             <p className="text-sm text-gray-600 mt-2">Altitude: 538 m</p>
 
             <p className="text-gray-700 mt-2">
-  On this day, the participants will take a flight from Skardu
-  airport to Islamabad airport. After arrival, you&apos;ll have ample
-  time to relax at the hotel in Islamabad.
-</p>
-
+              On this day, the participants will take a flight from Skardu
+              airport to Islamabad airport. After arrival, you'll have ample
+              time to relax at the hotel in Islamabad.
+            </p>
 
             <p className="text-gray-700 mt-2">
               Domestic flights can sometimes be canceled due to weather
               conditions. In case of a cancellation, participants will drive to
               Chilas for an overnight stay. The drive takes about 8 to 10 hours.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">
-              Twin-sharing room at Chateau Royale, Prestige Residence, or an
-              equivalent standard partner hotel in Islamabad (depending on
-              occupancy).
-            </p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, and dinner + tea/coffee and snacks.
-            </p>
           </div>
 
-          {/* Day 20 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 20: Contingency day for flight cancellation
@@ -748,21 +528,8 @@ const K2BaseCampTrek = () => {
               Islamabad if participants make it to the city via the domestic
               flight.
             </p>
-
-            <h3 className="text-md font-semibold mt-4">Accommodation</h3>
-            <p className="text-gray-700">
-              Twin-sharing room at Chateau Royale, Prestige Residence, or an
-              equivalent standard partner hotel in Islamabad (depending on
-              occupancy).
-            </p>
-
-            <h3 className="text-md font-semibold mt-4">Meals</h3>
-            <p className="text-gray-700">
-              Breakfast, lunch, and dinner + tea/coffee and snacks.
-            </p>
           </div>
 
-          {/* Day 21 */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <h2 className="text-xl font-semibold text-gray-800">
               Day 21: Fly to home country
@@ -778,7 +545,6 @@ const K2BaseCampTrek = () => {
             <p className="text-gray-700">Breakfast included.</p>
           </div>
 
-          {/* Important Notes Section */}
           <div className="bg-white shadow-md rounded-lg p-6">
             <div className="bg-blue-700 text-white font-semibold px-4 py-2 rounded-t-md">
               Important Notes
@@ -789,50 +555,49 @@ const K2BaseCampTrek = () => {
               </h2>
 
               <ul className="list-decimal list-inside space-y-4">
-  <li>
-    <strong>Early Bird Discount:</strong> The given prices for the
-    holiday are limited-time discount offers and are subject to
-    change.{" "}
-    <span className="font-semibold">Service providers</span>{" "}
-    including (but not limited to) airlines and hotels{" "}
-    <span className="font-semibold">increase prices</span> in
-    peak-season. Early reservations cost us less than peak-season.
-  </li>
-  <li>
-    <strong>Limited Space in Peak Months:</strong> The peak months
-    in the peak season attract the highest number of international
-    guests and are therefore sold out earlier. We have restricted
-    one group size to a maximum of 12 travelers. We are taking
-    registrations on a{" "}
-    <span className="font-semibold">
-      &quot;first-come, first-served&quot;
-    </span>{" "}
-    basis.
-  </li>
-  <li>
-    <strong>Limited Flight Seats:</strong> Domestic flight seats
-    to the Karakorams and Himalayas are sold out way ahead of time
-    because there are only two daily flights during peak season.
-    Among other things, the deposit is used to book domestic
-    flights for you in advance.
-  </li>
-  <li>
-    <strong>Pay Balance after arrival in Pakistan:</strong> We
-    appreciate that paying the final balance for your trip may
-    cause concern. Our policy is to only receive your final
-    balance once you arrive in Pakistan. The only payment before
-    arrival is the deposit.
-  </li>
-  <li>
-    <strong>Pay Minimum Deposit:</strong> The deposits for the
-    holiday are also{" "}
-    <span className="font-semibold">early-bird discounts </span>{" "}
-    and automatically change according to the late deposit
-    schedule above. The same dates apply to next season&apos;s
-    deposits.
-  </li>
-</ul>
-
+                <li>
+                  <strong>Early Bird Discount:</strong> The given prices for the
+                  holiday are limited-time discount offers and are subject to
+                  change.{" "}
+                  <span className="font-semibold">Service providers</span>{" "}
+                  including (but not limited to) airlines and hotels{" "}
+                  <span className="font-semibold">increase prices</span> in
+                  peak-season. Early reservations cost us less than peak-season.
+                </li>
+                <li>
+                  <strong>Limited Space in Peak Months:</strong> The peak months
+                  in the peak season attract the highest number of international
+                  guests and are therefore sold out earlier. We have restricted
+                  one group size to a maximum of 12 travelers. We are taking
+                  registrations on a{" "}
+                  <span className="font-semibold">
+                    &quot;first-come, first-served&quot;
+                  </span>{" "}
+                  basis.
+                </li>
+                <li>
+                  <strong>Limited Flight Seats:</strong> Domestic flight seats
+                  to the Karakorams and Himalayas are sold out way ahead of time
+                  because there are only two daily flights during peak season.
+                  Among other things, the deposit is used to book domestic
+                  flights for you in advance.
+                </li>
+                <li>
+                  <strong>Pay Balance after arrival in Pakistan:</strong> We
+                  appreciate that paying the final balance for your trip may
+                  cause concern. Our policy is to only receive your final
+                  balance once you arrive in Pakistan. The only payment before
+                  arrival is the deposit.
+                </li>
+                <li>
+                  <strong>Pay Minimum Deposit:</strong> The deposits for the
+                  holiday are also{" "}
+                  <span className="font-semibold">early-bird discounts </span>{" "}
+                  and automatically change according to the late deposit
+                  schedule above. The same dates apply to next season&apos;s
+                  deposits.
+                </li>
+              </ul>
             </div>
           </div>
           <span>
