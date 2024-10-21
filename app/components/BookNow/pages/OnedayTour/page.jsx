@@ -2,7 +2,6 @@
 import GlitchButton from "../../../whatsapp/page"
 import Image from 'next/image';
 
-import pic from "/public/taxila.jpeg"
 const OnedayTour = () => {
   return (
     <div className="bg-gray-50 py-10 px-4 sm:px-6 lg:px-8">
