@@ -28,22 +28,25 @@ const Secondbar = () => {
             <div className='mb-1'>
             <div className="flex items-center space-x-1">
             <FiPhone />
-            <span className="text-[12px]">051-4106110</span>
+            <span className="text-[12px]">+92-51-4106110</span>
+          </div>
+            </div>
+
+
+            <div>
+            <div className="flex items-center space-x-1">
+            <FaWhatsapp />
+            <span className="text-[12px]">+92-3350823823</span>
           </div>
             </div>
             <div className='mb-1'>
-            <div className="flex items-center space-x-1">
+            <div className="flex items-center py-1 space-x-1">
             <FiMail />
             <span className="text-[12px]">travelatease.tae@gmail.com</span>
           </div>
             </div>
 
-            <div>
-            <div className="flex items-center space-x-1">
-            <FaWhatsapp />
-            <span className="text-[12px]">+923350823823</span>
-          </div>
-            </div>
+       
 
 
           </div>
