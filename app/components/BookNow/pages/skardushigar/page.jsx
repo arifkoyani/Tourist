@@ -39,7 +39,7 @@ const Skardushigar = () => {
   <div className="mb-4">
     <h3 className="text-lg font-bold text-gray-900 mb-2">Day 1</h3>
     <p className="text-gray-700">
-      Fly to Skardu airport from Benazir International Airport, Islamabad<br />
+      Fly to Skardu airport from Islamabad International Airport, Islamabad<br />
       Pick up from airport by guide and/or driver<br />
       Drive to Shangrila Resort for tour<br />
       Visit Upper Kachura lake<br />

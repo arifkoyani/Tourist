@@ -76,7 +76,7 @@ const ContactUS = () => {
          
             <div className="flex items-center gap-2 mb-4">
               <Image src={whatsapp} width={20} height={20} alt="phone icon" />
-              <span>+923350823823</span>
+              <span>+92-3350823823</span>
             </div>
 
             <div className="flex items-center gap-2 mb-4">

@@ -22,10 +22,10 @@ const ContactComponent = () => {
           <div className="bg-[#213a71]   p-6 rounded-lg shadow-lg mb-6 md:mb-0 md:w-1/3">
             <h2 className="text-2xl font-semibold mb-4">Regional Office</h2>
             <p className="mb-2">Karimabad, Hunza, Pakistan</p>
-            <div className="flex items-center space-x-4 py-2">
+            {/* <div className="flex items-center space-x-4 py-2">
             <FiPhone />
             <span className="text-[16px]">+92-514106110</span>
-          </div>
+          </div> */}
             <div className="flex items-center gap-5  mt-2  mb-2">
               <Image src={whatsapp} width={20} height={20} alt="phone icon" />
               <span>+92-3350823823</span>

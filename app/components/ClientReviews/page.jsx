@@ -17,7 +17,7 @@ const Reviews = () => {
           </h2>
           <p className="text-[15px] leading-relaxed  text-center">
             Our clients love us! Here are some of the reviews from our valued
-            customers.
+            Clients.
           </p>
         </div>
       </div>
