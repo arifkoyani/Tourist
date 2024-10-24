@@ -2,7 +2,6 @@
 import React from "react";
 import whatsapp from "/public/whatspp.png";
 import Image from "next/image";
-import { FiPhone} from 'react-icons/fi';
 
 
 const ContactComponent = () => {
