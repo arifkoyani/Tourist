@@ -1,3 +1,37 @@
+// // Next.js Component using Tailwind CSS to recreate the design
+
+// const RestrictedPage = () => {
+//   return (
+//     <div className="flex items-center justify-center h-screen bg-gray-900">
+//       <div className="text-center">
+//       <p className="text-xl md:text-2xl text-red-400 mb-8">
+//           For More changes and Updating
+//         </p>
+//         <h1 className="text-3xl md:text-5xl font-bold text-red-500 mb-6">
+//           Website Restricted By Developer
+//         </h1>
+//         <p className="text-xl md:text-2xl text-red-400 mb-8">
+//           Due To Incomplete Payments Of Development.
+//         </p>
+//         <p className="text-sm md:text-lg text-white mb-4">
+//           If you are a site owner, contact the developer and make payment until
+//         </p>
+//         <p className="text-sm md:text-lg text-white mb-8">
+//           After this date all data of website will be lost.
+//         </p>
+//         <button className="bg-red-600 text-white py-2 px-6 rounded-lg hover:bg-red-700 transition">
+//           About Dev.
+//         </button>
+//       </div>
+//     </div>
+//   );
+// };
+
+// export default RestrictedPage;
+
+
+
+
 "use client";
 import Image from "next/image";
 import { Carousel } from "react-responsive-carousel";

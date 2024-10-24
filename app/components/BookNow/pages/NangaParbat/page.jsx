@@ -41,7 +41,7 @@ const NangaParbat = () => {
 
     {/* Description */}
     <p className="text-sm text-gray-700 mb-4">
-      A member/guide of the Apricot Tours Pakistan will welcome you at the airport and accompany you to the hotel. Participants can relax at our partner hotel. A welcome dinner will be served in the evening with other trekkers joining the Nanga Parbat Base Camp group.
+      A member/guide Travel at Ease Pakistan will welcome you at the airport and accompany you to the hotel. Participants can relax at our partner hotel. A welcome dinner will be served in the evening with other trekkers joining the Nanga Parbat Base Camp group.
     </p>
 
     {/* Table Section */}
@@ -267,30 +267,7 @@ const NangaParbat = () => {
 
 
 
-<div className="bg-gray-50 p-6 rounded-lg shadow-md w-full">
-  {/* Day Heading */}
-  <div className="bg-orange-500 text-white px-4 py-2 rounded-t-md">
-    <h2 className="text-lg font-bold">Day 10: Drive to Besham</h2>
-  </div>
 
-  {/* Details Section */}
-  <div className="bg-gray-100 p-4">
-    {/* On This Day Section */}
-    <div className="mb-4">
-      <h3 className="text-md font-semibold text-gray-800">On this Day</h3>
-      <p className="text-sm text-gray-700">Accommodation: Standard hotel</p>
-      <p className="text-sm text-gray-700">Meals included: Breakfast, lunch and dinner</p>
-    </div>
-
-    {/* Description */}
-    <p className="text-sm text-gray-700 mb-4">
-      The guests will depart back to Besham or Naran (depending on weather and other variables). If we take the road to Besham, we drive through Chilas and Dassu traveling along Indus river on Karakoram Highway. However, we will try to return to Islamabad via Naran road, giving our guests the opportunity to explore additional locations.
-    </p>
-
-  
-
-  </div>
-</div>
 
 
 
@@ -314,17 +291,7 @@ const NangaParbat = () => {
       The guests will depart back to Besham or Naran (depending on weather and other variables). If we take the road to Besham, we drive through Chilas and Dassu traveling along Indus river on Karakoram Highway. However, we will try to return to Islamabad via Naran road, giving our guests the opportunity to explore additional locations.
     </p>
 
-    {/* Naran Section */}
-    <div className="mb-4">
-      <h3 className="text-md font-semibold text-gray-800">Naran</h3>
-      
-    </div>
-
-    {/* Besham Section */}
-    <div>
-      <h3 className="text-md font-semibold text-gray-800">Besham</h3>
-   
-    </div>
+ 
   </div>
 </div>
 
