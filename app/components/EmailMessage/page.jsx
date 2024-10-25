@@ -70,7 +70,7 @@ const ContactUS = () => {
 
             <div className="flex items-center space-x-4 py-4">
             <FiPhone />
-            <span className="text-[16px]">+92-514106110</span>
+            <span className="text-[16px]">+92-51-4106110</span>
           </div>
            
          
