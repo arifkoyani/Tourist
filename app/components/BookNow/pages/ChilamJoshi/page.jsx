@@ -288,7 +288,7 @@ const ChilamJoshi = () => {
   <div className="mb-6">
     <h4 className="font-bold text-lg mb-2">On this Day</h4>
     <p className="text-gray-700 mb-4">
-      Today we will explore Chitral Town. We will visit Chitral Fort, the capital of the ancient kingdom of Chitral, which served as the seat of power for the region. Later, we will visit the Shahi Mosque of Chitral located within the premises of the fort. Following that, we will travel to Birmoglasht, situated on a mountaintop, offering a bird’s-eye view of the valley. We might even spot the indigenous Markhor in this area. We will enjoy lunch at Birmoglasht. If there is a polo match happening in Chitral Town, we will visit the polo ground to experience the thrilling event. Later, we will explore the Chitral Bazaar and return to the hotel for dinner.
+      On this Day we will explore Chitral Town. We will visit Chitral Fort, the capital of the ancient kingdom of Chitral, which served as the seat of power for the region. Later, we will visit the Shahi Mosque of Chitral located within the premises of the fort. Following that, we will travel to Birmoglasht, situated on a mountaintop, offering a bird’s-eye view of the valley. We might even spot the indigenous Markhor in this area. We will enjoy lunch at Birmoglasht. If there is a polo match happening in Chitral Town, we will visit the polo ground to experience the thrilling event. Later, we will explore the Chitral Bazaar and return to the hotel for dinner.
     </p>
 
     {/* GPS Data */}

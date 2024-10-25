@@ -36,7 +36,7 @@ const QuickContact = () => {
         <div className='flex flex-col'>
           <h3 className="text-lg font-bold mb-4">Quick Contact</h3>
           <p className='font-light text-sm'>
-            Mobile: <span className="font-light text-sm text-gray-300">+923350823823</span>
+            Mobile: <span className="font-light text-sm text-gray-300">+92-3350823823</span>
           </p>
 
           

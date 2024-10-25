@@ -19,11 +19,6 @@ const Skardushigar = () => {
   <p className="text-lg text-gray-700 text-center mb-2">
     <strong>Duration:</strong> 6 Days 
   </p>
-
-  <p className="text-lg text-gray-700 text-center">
-    <strong>   <br/>Mode of Transport:</strong> 
-  </p>
-  Air Travel (Flight)
 </div>
 
 

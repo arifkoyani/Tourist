@@ -30,15 +30,7 @@ const ChitralTour = () => {
                <p className="legend">Chitral-Valley</p>
               </div>
 
-              <div className="relative w-full h-screen">
-                <Image
-                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chitral_Museum_-_panoramio_(1).jpg/512px-Chitral_Museum_-_panoramio_(1).jpg"
-                  alt="Chitral Scenery"
-                  layout="fill"
-                  objectFit="cover"
-                />
-                <p className="legend">Chitral Museum</p>
-              </div>
+            
 
               <div className="relative w-full h-screen">
                 <Image
