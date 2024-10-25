@@ -192,6 +192,14 @@ const Gallery = () => {
               height={300}
             />
           </div>
+          <div className="relative w-full  h-48 mb-2">
+        <Image
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meadows_of_Chitral_Gol_National_Park%3B_Tahsin_Shah_03.jpg/1200px-Meadows_of_Chitral_Gol_National_Park%3B_Tahsin_Shah_03.jpg" // Replace with actual image path
+          alt="Chitral – The Living Heritage of the Kalash Community"
+          width={400}
+          height={300}
+        />
+      </div>
 
   
 

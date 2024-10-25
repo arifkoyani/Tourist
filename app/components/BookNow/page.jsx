@@ -9,6 +9,7 @@ import Islamabad from "./Islamabad/page"
 import  Batura from "./Batura/page"
 import HunzaAndGilgit from "./hunzaandGilglt/page"
 import ChilamFestival from "./ChilamFestival/page"
+import ChitralTour from "./ChitralTour/page"
 
 const BookNow = () => {
   return (
@@ -40,6 +41,7 @@ const BookNow = () => {
       <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
 
         <ChilamFestival/>
+        <ChitralTour/>
       </div>
     </div>
   );

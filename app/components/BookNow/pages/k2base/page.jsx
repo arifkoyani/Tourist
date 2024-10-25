@@ -121,7 +121,7 @@ const K2BaseCampTrek = () => {
 
             <h3 className="text-md font-semibold mt-4">Pickup Information</h3>
             <p className="text-gray-700">
-  Our guide will hold orange placards with the company logo and your
+  Our guide will hold  placards with the company logo and your
   name. Ensure to give us your flight details at least five days
   before arrival. Our staff will meet you at the gates of
   international arrivals unless you&apos;re taking a connecting flight
