@@ -19,6 +19,8 @@ const nextConfig = {
         "dynamic-media-cdn.tripadvisor.com",
         "www.exploria.pk",
         "hunzaguidespakistan.com",
+        "mytrip.pk",
+        "pakistantourntravel.com",
         "i.ytimg.com",
         "www.natureadventureclub.pk",
         "media.istockphoto.com",

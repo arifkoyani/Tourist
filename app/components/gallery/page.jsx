@@ -72,6 +72,27 @@ const Gallery = () => {
           <div>
             <Image
               className="h-auto max-w-full rounded-lg"
+              src="https://mytrip.pk/storage/images/dest_mod-62eb9e5a8f3f71659608666.webp"
+              alt="Chet Singh Ghat"
+              width={400}
+              height={300}
+            />
+          </div>
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
+              src="https://pakistantourntravel.com/wp-content/uploads/2022/03/Who-lives-in-Chitral.jpg"
+              alt="Chet Singh Ghat"
+              width={400}
+              height={300}
+            />
+          </div>
+
+
+          <div>
+            <Image
+              className="h-auto max-w-full rounded-lg"
               src="https://i.pinimg.com/control/564x/cd/f1/85/cdf185f694b0c5bb79a0a36781d37b5d.jpg"
               alt="Chet Singh Ghat"
               width={400}
