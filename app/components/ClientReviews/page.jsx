@@ -336,7 +336,7 @@ const Reviews = () => {
             <div className="flex w-full flex-col gap-0.5">
               <div className="flex items-center justify-between">
                 <h6 className="block font-sans leading-snug tracking-normal text-blue-gray-900 antialiased">
-                  alan peeter
+                  Alan Peeter
                 </h6>
                 <div className="flex items-center gap-0">
                   <svg
