@@ -11,7 +11,6 @@ const Skardushigar = () => {
 
   {/* Main Heading */}
   <h3 className="text-xl md:text-xl font-extrabold text-center text-gray-900 mb-4">
-  (6 Days)<br/>
   Skardu, Shigar, Ghanche and Kharmang
   </h3>
 

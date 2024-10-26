@@ -230,7 +230,7 @@ const NangaParbat = () => {
 </p>
 
 
-    <p className="text-[10px] text-gray-700 mb-4">
+    <p className="text-[14px] text-gray-700 mb-4">
       Khunjerab National Park is a wildlife habitat for ibex, snow leopards, marmots, etc. Guests may even get the chance to meet Chinese soldiers, border police, or tourists from the other side. Participants will enjoy a packed/picnic lunch at the Pak-China Border (4733m). Guests will have shopping time on the return in Sost (Immigration/Customs point) for Chinese goods (electronics, watches, etc.). We will return to Passu Village for the night.
     </p>
 
