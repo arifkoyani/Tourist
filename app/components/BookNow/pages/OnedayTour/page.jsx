@@ -8,7 +8,7 @@ const OnedayTour = () => {
       {/* Title */}
       <div className="text-center mb-10">
         <h1 className="text-3xl font-bold text-gray-800">
-        Murree ,Taxila Heritage Museum and Lahore (Day Tours)
+        Murree ,Taxila Museum and Lahore (Day Tours)
 
         </h1>
         <p className="text-gray-600">Duration: 1 Day</p>
@@ -58,7 +58,7 @@ const OnedayTour = () => {
     <div className="bg-gray-50 p-6 rounded-lg shadow-md w-full max-w-lg mx-auto">
       {/* Day Heading */}
       <div className="bg-green-500 text-white px-4 py-2 rounded-t-md">
-        <h2 className="text-lg font-bold">Day Tour to Taxila (Old Museum)</h2>
+        <h2 className="text-lg font-bold">Day Tour to Taxila Museum</h2>
       </div>
 
       {/* Image Section */}

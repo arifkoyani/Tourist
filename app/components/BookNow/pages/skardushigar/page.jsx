@@ -5,8 +5,6 @@ const Skardushigar = () => {
     <div className="bg-gray-50 py-10 px-4 sm:px-6 lg:px-8">
                   <div className="bg-white p-6 shadow-md rounded-lg mb-4 max-w-4xl mx-auto">      
   <div className="flex justify-center items-center mb-6">
-    <div className="bg-orange-500 h-6 w-6 mr-3"></div>
-    <h2 className="text-2xl font-bold text-gray-800">General</h2>
   </div>
 
   {/* Main Heading */}

@@ -106,12 +106,12 @@ const ChilamJoshi = () => {
   {/* General Section */}
   <div className="flex justify-center items-center mb-4">
     <div className="bg-orange-500 h-6 w-6 mr-3"></div>
-    <h2 className="text-2xl font-bold text-gray-800">General</h2>
+    <h2 className="text-2xl font-bold text-gray-800">Overview</h2>
   </div>
 
   {/* Itinerary Code and Duration */}
   <div className="mb-4">
-    <p className="text-lg text-gray-700">
+    <p className="text-lg text-gray-700 text-justify">
     Chilam Joshi festival is one of the top cultural festivals of Pakistan. Kalasha tribe celebrates many festivals around the year. The three main Kalash Festivals are Chilam Joshi (spring festival), Choimus (winter festival) and Uchal (summer festival). The spring festival of Chilam Joshi is an amazing cultural experience in the Hindukush mountain ranges. UNESCO listed Kalash culture as “Intangible Cultural Heritage” in November 2018. The decision was announced during the 13th session of UNESCO’s Intergovernmental Committee meeting organised in Mauritius.
     </p>
   </div>

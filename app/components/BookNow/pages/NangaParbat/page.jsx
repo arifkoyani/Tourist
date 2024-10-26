@@ -6,9 +6,9 @@ const NangaParbat = () => {
       {/* Title */}
       <div className="bg-white p-6 shadow-md rounded-lg mb-4 max-w-4xl mx-auto">
   {/* General Section */}
-  <div className="flex justify-center items-center mb-6">
+  <div className="flex justify-center items-center mb-4 py-5">
     <div className="bg-orange-500 h-6 w-6 mr-3"></div>
-    <h2 className="text-2xl font-bold text-gray-800">General</h2>
+    <h2 className="text-2xl font-bold text-gray-800"> Overview</h2>
   </div>
 
   {/* Main Heading */}

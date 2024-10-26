@@ -69,7 +69,7 @@ const ChitralTour = () => {
 
           <span className="flex justify-center text-5xl font-bold p-10 bg-[#e6e1ca]">
             <h6 className="text-black px-4 ">
-              Chitral & Kalash Valley Tour (2024-25) – 5 Days
+              Chitral & Kalash Valley Tour (2024-25) – 6 Days
             </h6>
           </span>
 
@@ -80,7 +80,7 @@ const ChitralTour = () => {
               <h2 className="text-2xl font-bold text-gray-800">Overview</h2>
             </div>
 
-            <p className="text-lg text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4 text-justify">
   Embark on a unique journey to uncover the hidden treasures of
   Chitral and the Kalash Valley, a region rich in culture and
   natural beauty. This tour provides an intimate glimpse into one of
@@ -88,7 +88,7 @@ const ChitralTour = () => {
   ancient traditions seamlessly blend with breathtaking landscapes.
 </p>
 
-<p className="text-lg text-gray-700 mb-4">
+<p className="text-lg text-gray-700 mb-4 text-justify">
   Start your adventure with a trek through Chitral&apos;s enchanting
   scenery, featuring rolling hills adorned with traditional
   villages, majestic snow-capped peaks, and shimmering glaciers.
@@ -96,7 +96,7 @@ const ChitralTour = () => {
   gain insights into the customs and beliefs of the region.
 </p>
 
-            <p className="text-lg text-gray-700 mb-4">
+            <p className="text-lg text-gray-700 mb-4 text-justify">
               The highlight of your journey will be a visit to the Kalash
               Valley, where you can immerse yourself in a way of life that has
               remained largely unchanged for centuries. Engage with the
@@ -113,7 +113,7 @@ const ChitralTour = () => {
               <h2 className="text-2xl font-bold text-gray-800">Itinerary</h2>
             </div>
 
-            <ul className="list-disc list-inside space-y-2">
+            <ul className="list-disc list-inside space-y-2 text-justify">
               <li className="text-gray-700">
                 <strong>Day 1: Islamabad - Dir - Ayun</strong> - Morning drive
                 from Islamabad to Dir. On the way, lunch at a suitable place.
@@ -135,6 +135,16 @@ const ChitralTour = () => {
               <li className="text-gray-700">
                 <strong>Day 5: Chitral - Dir - Swat</strong> - Drive back through
                 scenic routes, stopping at Dir and reaching Swat.
+              </li>
+
+
+              <li className="text-gray-700">
+                <strong>Day 6 - Swat Valley - Islamabad</strong> -Breakfast will be served at the hotel
+Drive towards Islamabad via Takht – e – Bhai monastery.
+Evening drive to Islamabad.
+Arrive at Islamabad.
+After Farewell dinner, Transfer to Airport
+
               </li>
             </ul>
             <div className="mt-12">

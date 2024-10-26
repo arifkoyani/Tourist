@@ -106,9 +106,9 @@ const BaturaGlacier = () => {
 
 <div className="bg-white p-6 shadow-md rounded-lg max-w-4xl mx-auto mb-6">
   {/* General Section */}
-  <div className="flex justify-center items-center mb-4">
+  <div className="flex justify-center items-center mb-4 py-10">
     <div className="bg-orange-500 h-6 w-6 mr-3"></div>
-    <h2 className="text-2xl font-bold text-gray-800">General</h2>
+    <h2 className="text-2xl font-bold text-gray-800"> Itinerary Overview</h2>
   </div>
 
   {/* Batura Glacier Description */}
