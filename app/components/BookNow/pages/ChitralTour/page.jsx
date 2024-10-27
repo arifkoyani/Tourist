@@ -139,12 +139,7 @@ const ChitralTour = () => {
 
 
               <li className="text-gray-700">
-                <strong>Day 6 - Swat Valley - Islamabad</strong> -Breakfast will be served at the hotel
-Drive towards Islamabad via Takht – e – Bhai monastery.
-Evening drive to Islamabad.
-Arrive at Islamabad.
-After Farewell dinner, Transfer to Airport
-
+                <strong>Day 6 - Swat Valley - Islamabad</strong>Breakfast will be served at the hotel before departing towards Islamabad, with a visit to the Takht-e-Bhai Monastery along the way. In the evening, the journey will continue to Islamabad, where, upon arrival, guests will enjoy a farewell dinner. Afterward, they will be transferred to Islamabad International Airport for departure.
               </li>
             </ul>
             <div className="mt-12">
