@@ -51,10 +51,6 @@ const OnedayTour = () => {
 
 
 
-
-
-
-
     <div className="bg-gray-50 p-6 rounded-lg shadow-md w-full max-w-lg mx-auto">
       {/* Day Heading */}
       <div className="bg-green-500 text-white px-4 py-2 rounded-t-md">

@@ -100,7 +100,7 @@ const K2BaseCampTrek = () => {
           <h1 className="text-xl font-bold text-gray-800">
           K2 Base Camp Trek (2024-25) – 21 days
           </h1>
-          <p className="text-gray-600 mt-2"> Overview</p>
+          <p className="text-gray-600 mt-2"> Itinerary Overview</p>
         </div>
 
         <div className="space-y-8 max-w-4xl mx-auto">

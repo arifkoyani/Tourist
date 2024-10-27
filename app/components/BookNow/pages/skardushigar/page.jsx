@@ -24,7 +24,7 @@ const Skardushigar = () => {
   {/* General Section */}
   <div className="flex justify-center items-center mb-4">
     <div className="bg-orange-500 h-6 w-6 mr-3"></div>
-    <h2 className="text-2xl font-bold text-gray-800">Welcome</h2>
+    <h2 className="text-2xl font-bold text-gray-800">Itinerary Overview</h2>
   </div>
 
   {/* Day 1 */}
