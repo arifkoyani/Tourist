@@ -124,7 +124,7 @@ const HunzaViaKKH = () => {
     <div>
       <h3 className="text-lg font-bold text-gray-900 mb-2">Day 1</h3>
       <ul className="list-disc list-inside">
-        <li className="text-gray-700" style={{ color: "orange" }}>Departure from Islamabad (early morning)</li>
+        <li className="text-gray-700">Departure from Islamabad (early morning)</li>
         <li className="text-gray-700">Journey through Mansehra, Shinkiari, Battagram on Karakoram Highway (KKH)</li>
         <li className="text-gray-700">Crossing through Indus River and passing through Besham, Dasu and Diamer-Bhasha dam sites</li>
         <li className="text-gray-700">Stops at Tata Pani (hot spring), Raikot Bridge, Nanga Parbat peak view point</li>
