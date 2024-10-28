@@ -327,7 +327,7 @@ const Reviews = () => {
 
           <div className="relative mx-0 mt-4 flex flex-col p-2  items-center gap-1 overflow-hidden rounded-xl bg-clip-border  shadow-none">
             <Image
-              src={e}
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Woman_at_Lover%27s_Bridge_Tanjung_Sepat_%28cropped%29.jpg/800px-Woman_at_Lover%27s_Bridge_Tanjung_Sepat_%28cropped%29.jpg"
               alt="Profile Picture"
               width={58}
               height={58}
@@ -336,7 +336,7 @@ const Reviews = () => {
             <div className="flex w-full flex-col gap-0.5">
               <div className="flex items-center justify-between">
                 <h6 className="block font-sans leading-snug tracking-normal text-blue-gray-900 antialiased">
-                  Alan Peeter
+                  Elena
                 </h6>
                 <div className="flex items-center gap-0">
                   <svg
