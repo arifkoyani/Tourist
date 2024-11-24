@@ -7,9 +7,13 @@ import React, { useRef, useEffect } from "react";
 import emailjs from "@emailjs/browser";
 import Swal from "sweetalert2";
 import HeartCircle from "./Me/page";
+import { FaWhatsapp, FaGlobe } from 'react-icons/fa';
+
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { FiPhone} from 'react-icons/fi';
+import Link from "next/link";
+
 
 const ContactUS = () => {
   useEffect(() => {
@@ -68,21 +72,37 @@ const ContactUS = () => {
           <span data-aos="fade-up">
             <h1 className="text-4xl font-bold mb-6">CONTACT INFO</h1>
 
-            <div className="flex items-center space-x-4 py-4">
+            <div className="flex items-center space-x-4 py-2">
             <FiPhone />
             <span className="text-[16px]">+92-51-4106110</span>
           </div>
            
          
-            <div className="flex items-center gap-2 mb-4">
+            <div className="flex items-center gap-2 mb-2">
               <Image src={whatsapp} width={20} height={20} alt="phone icon" />
               <span>+92-3350823823</span>
             </div>
+
+
+           
+
+            <div className="flex items-center space-x-2 mb-1">
+              <FaGlobe />
+              <span className="text-[16px] pl-2">
+                <Link href="https://www.tae.com.pk" target="_blank" className="hover:underline">
+                  www.tae.com.pk
+                </Link>
+              </span>
+            </div>
+
 
             <div className="flex items-center gap-2 mb-4">
               <Image src={gmail} width={20} height={20} alt="email icon" />
               <span>travelatease.tae@gmail.com</span>
             </div>
+
+          
+            
           </span>
           <HeartCircle />
         </div>

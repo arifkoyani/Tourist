@@ -2,7 +2,9 @@
 import React from "react";
 import whatsapp from "/public/whatspp.png";
 import Image from "next/image";
-import { FiPhone} from 'react-icons/fi';
+import { FiPhone, FiMail } from 'react-icons/fi';
+import { FaGlobe } from 'react-icons/fa';
+import Link from "next/link";
 
 
 
@@ -15,12 +17,17 @@ const ContactComponent = () => {
           <div className="bg-[#213a71] text-[14px]  flex flex-col p-6 rounded-lg shadow-lg mb-6 md:mb-0 md:w-1/3">
             <h2 className="text-2xl font-semibold mb-4">Resident Office</h2>
             <p className="mb-2">Islamabad, Pakistan</p>
-            <div className="flex items-center space-x-4 py-1 mb-1">
+            <div className="flex items-center space-x-2 py-1 mb-1">
             <FiPhone />
             <span className="text-[16px]">+92-51-4106110</span>
           </div>
-            <p>Email: <a href="mailto:travelatease.tae@gmail.com" className="underline hover:text-yellow-300">travelatease.tae@gmail.com</a></p>
-         
+            {/* <p>Email: <a href="mailto:travelatease.tae@gmail.com" className="underline hover:text-yellow-300">travelatease.tae@gmail.com</a></p> */}
+            <div className="mb-1">
+              <div className="flex items-center pt-1 space-x-1">
+                <FiMail />
+                <span className="text-[12px] pl-2">travelatease.tae@gmail.com</span>
+              </div>
+            </div>
           </div>
 
           {/* Regional Office Section */}
@@ -35,10 +42,20 @@ const ContactComponent = () => {
               <Image src={whatsapp} width={20} height={20} alt="phone icon" />
               <span>+92-3350823823</span>
             </div>
-            <p>Email: <a href="mailto:travelatease.tae@gmail.com" className="underline hover:text-yellow-300">travelatease.tae@gmail.com</a></p>
+            <div className="flex justify-cente items-center">
+            <FiMail />
 
+               <a href="mailto:travelatease.tae@gmail.com" className=" pl-4 underline-none  hover:text-yellow-300">travelatease.tae@gmail.com</a></div>
+              
+            <div className="flex items-center space-x-2">
+              <FaGlobe />
+              <span className="text-[16px] pl-3">
+                <Link href="https://www.tae.com.pk" target="_blank" className="hover:underline">
+                  www.tae.com.pk
+                </Link>
+              </span>
+            </div>
           </div>
-
           {/* Helper Center Section */}
           <div className="bg-[#213a71] p-6 rounded-lg  text-[12px] shadow-lg mb-6 md:mb-0 md:w-1/3">
             <h2 className="text-xl font-semibold mb-4">Helper Center</h2>

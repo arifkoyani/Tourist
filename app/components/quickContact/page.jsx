@@ -43,6 +43,11 @@ const QuickContact = () => {
           <p>
             <Link href="mailto:travelpakistan66@gmail.com" className="font-light text-gray-300">travelatease.tae@gmail.com</Link>
           </p>
+          <span className="text-[16px] font-light text-gray-300">
+                <Link href="https://www.tae.com.pk" target="_blank" className="hover:underline">
+                  www.tae.com.pk
+                </Link>
+              </span>
 
           <h3 className="text-lg font-bold mt-4 mb-2">Connect with us</h3>
           <div className="flex space-x-4">
