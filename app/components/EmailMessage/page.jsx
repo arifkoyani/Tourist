@@ -7,7 +7,7 @@ import React, { useRef, useEffect } from "react";
 import emailjs from "@emailjs/browser";
 import Swal from "sweetalert2";
 import HeartCircle from "./Me/page";
-import { FaWhatsapp, FaGlobe } from 'react-icons/fa';
+import { FaGlobe } from 'react-icons/fa';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
